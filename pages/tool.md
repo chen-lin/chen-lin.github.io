@@ -8,7 +8,7 @@ The following tools I have developed in my research can be found at [Github](htt
 
 ### openmoor
 
-Openmoor is an open-source program for simulating mooring systems in offshore floating wind turbines and wave energy devices. Find the source code and examples [here](https://github.com/chen-lin/openmoor/).
+Openmoor is an open-source program for simulating mooring systems in offshore floating wind turbines and wave energy devices. Find the source code and examples at [Github](https://github.com/chen-lin/openmoor/) and the tutorial on openmoor official [website](https://openmoor.github.io).
 
 Below is an example of using openmoor to simulate the motion of a mooring cable model subjected to forced motion at the top end.
 
