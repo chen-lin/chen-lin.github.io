@@ -18,6 +18,5 @@ Below is an example of using openmoor to simulate the motions of a mooring cable
 | :---: | :---: |
 | Case 1 | Case 2 |
 
-
 ## farx
 Fractional-order AutoRegressive model with eXogenous variables (FARX) for building thermo-dynamics can achieve comparable accuracy as classical ARX models while with a largely reduced number of parameters. This largely reduces the identification cost in system identification, therefore facilitating the model-predictive control. Find the code and an example [here](https://github.com/chen-lin/farx/).
