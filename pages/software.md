@@ -14,9 +14,9 @@ Below is an example of using openmoor to simulate the motions of a mooring cable
 - Case 1: forced upper end circular motion with radius 0.2 m and period 3.5 s
 - Case 2: forced upper end circular motion with radius 0.2 m and period 1.25 s
 
-![](https://github.com/chen-lin/OpenMOOR/blob/master/examples/validation/Case3-5.gif?raw=true) | ![](https://github.com/chen-lin/OpenMOOR/blob/master/examples/validation/Case1-25.gif?raw=true)
-:---:|:---:
-Case 1 | Case 2
+| ![](https://github.com/chen-lin/OpenMOOR/blob/master/examples/validation/Case3-5.gif?raw=true) | ![](https://github.com/chen-lin/OpenMOOR/blob/master/examples/validation/Case1-25.gif?raw=true) |
+| :---: | :---: |
+| Case 1 | Case 2 |
 
 
 ## farx
