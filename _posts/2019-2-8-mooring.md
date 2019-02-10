@@ -10,4 +10,4 @@ Mathematical modeling and numerical analysis of mooring systems for offshore flo
 3. [FEAMooring](https://github.com/old-NWTC/FEAMooring)
 4. [openmoor](https://github.com/chen-lin/openmoor)
 
-In addition, __moody__ has its API hosted at [Github](https://github.com/johannep/moodyAPI) along with tutorials and examples while the source code is yet not available.
+In addition, __moody__ has its API hosted at [GitHub](https://github.com/johannep/moodyAPI) along with tutorials and examples while the source code is not yet available.

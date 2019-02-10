@@ -7,7 +7,7 @@ permalink: /publications/
 Check citation report at my Google Scholar [profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en).
 
 
-### Journal papers
+## Journal papers
 
 1. Sun, L., Hong, D., & __Chen, L.__ (2019). In-plane free vibrations of shallow cables with cross-ties. _Structural Control and Health Monitoring_ (under review).
 
@@ -39,7 +39,7 @@ Check citation report at my Google Scholar [profile](https://scholar.google.com/
 
 15. __Chen, L.__ & Sun, L. (2012). [Equivalent Model of Stay Cable with A Damper for Experimental Study](http://gclx.cbpt.cnki.net/WKE/WebPublication/paperDigest.aspx?paperID=31686743-7C02-4D61-AE18-0D54A301D69C). _Engineering Mechanics, 29_(S2), 139-143. (in Chinese)
 
-### Conference papers
+## Conference papers
 
 1. __Chen, L.__ & Basu, B. (2018). [Development of an open-source simulation tool for mooring systems](https://www.researchgate.net/publication/327424791_Development_of_an_open-source_simulation_tool_for_mooring_systems). In _Proceedings of the 2018 Civil Engineering Research in Ireland conference_ (CERI2018), Dublin, Ireland, pp. 823-828.
 
@@ -67,6 +67,6 @@ Check citation report at my Google Scholar [profile](https://scholar.google.com/
 
 13. Sun, L. & __Chen, L.__ (2011). Equivalent model of stay cable with full-scale damper for experimental study. In _Proceedings of the 9th International Symposium on Cable Dynamics_ (ISCD), Shanghai, China, pp. 55-61.
 
-### Thesis
+## Thesis
 
 - __陈林__, 2015. [斜拉索阻尼器减振方案及分析方法研究](https://www.researchgate.net/publication/318760977_xielasuozuniqijianzhenfanganjifenxifangfayanjiu). _博士论文_,同济大学.
