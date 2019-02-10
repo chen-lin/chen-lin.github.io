@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publication
-permalink: /publication/
+title: Publications
+permalink: /publications/
 ---
 
 Check citation report at my Google Scholar [profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en).

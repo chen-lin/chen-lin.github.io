@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tool
-permalink: /tool/
+title: Software
+permalink: /software/
 ---
 
 The following tools I have developed in my research can be found at [Github](http://github.com/chen-lin).
