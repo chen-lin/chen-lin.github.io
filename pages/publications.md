@@ -10,7 +10,7 @@ Check citation report at my Google Scholar [profile](https://scholar.google.com/
 ## Journal papers
 1. __Chen, L.__, Basu, B., & Martin, C. (2019). On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. (under review)
 
-1. __Chen, L.__& Basu, B. (2019). Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current. (submitted)
+1. __Chen, L.__ & Basu, B. (2019). Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current. (submitted)
 
 1. Sun, L., Xu, Y., & __Chen, L.__ (2019). Damping effects of nonlinear dampers on a shallow cable. _Engineering Structures_ (under review).
 
