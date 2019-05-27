@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Check citation report at my Google Scholar [profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en).
+See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en) for citations.
 
 
 ## Journal papers
@@ -42,7 +42,7 @@ Check citation report at my Google Scholar [profile](https://scholar.google.com/
 
 1. __Chen, L.__ & Sun, L. (2015). [Laboratory-Scale Experimental Setup for Studying Cable Dampers](http://ascelibrary.org/doi/abs/10.1061/(ASCE)EM.1943-7889.0000878). _Journal of Engineering Mechanics, 141_(5), 04014159.
 
-1. __Chen, L.__ & Sun, L. (2012). [Equivalent Model of Stay Cable with A Damper for Experimental Study](http://gclx.cbpt.cnki.net/WKE/WebPublication/paperDigest.aspx?paperID=31686743-7C02-4D61-AE18-0D54A301D69C). _Engineering Mechanics, 29_(S2), 139-143. (in Chinese)
+1. __陈林__ , 孙利民(2012). [用于阻尼器试验的斜拉索等效模型建模](http://engineeringmechanics.cn/CN/volumn/volumn_199.shtml). _工程力学, 29_(S2), 139-143.
 
 ## Conference papers
 
