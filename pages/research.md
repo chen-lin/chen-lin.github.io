@@ -27,5 +27,5 @@ Cables are efficient structural components and widely used in structural enginee
 - Model predictive control
 
 ### Blind modal identification
-- Blind modal identification methods including independent component analysis and second-order blind identification
-- Blind model identification applied to the Donghai Bridge. The layout of accelerometers installed on the main navigation channel bridge is illustrated as below. The accelerations are used for modal identification.
+- Independent component analysis and second-order blind identification for structural identification
+- Blind model identification with application to real bridges, including the Donghai Bridge
