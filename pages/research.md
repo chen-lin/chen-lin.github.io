@@ -22,8 +22,9 @@ Cables are efficient structural components and widely used in structural enginee
 - Coupled static and dynamic analyses of mooring systems consisting of multiple cables
 - Time/frequency domain methods for solving mooring cable dynamics
 
-     <img width="250" src="/resources/case3-5.gif">
-
+<table><tr><td>
+   <img width="250" src="/resources/case3-5.gif">
+</td></tr></table>
 ---
 ### Stay cable vibration & control
 - Novel vibration control devices/schemes
@@ -40,4 +41,4 @@ Cables are efficient structural components and widely used in structural enginee
 - Independent component analysis and second-order blind identification for structural identification
 - Blind model identification with application to real bridges, including the Donghai Bridge
 
-    <img width="250" src="/resources/bridgeandsensor.jpg">
+<img width="250" src="/resources/bridgeandsensor.jpg">
