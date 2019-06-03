@@ -10,7 +10,7 @@ Our research focuses on understanding and controlling structural dynamic behavoi
 Cables are efficient structural components and widely used in structural engineering, e.g., stay cables in cable-stayed bridges, suspenders in suspension bridges, transmission lines, and mooring cables in ocean engineering. They are hanging in the air or submerged in water and are particularly flexible in the transverse direction and hence subjected to problematic vibrations. Understanding and controlling their behaviors in environments typically need to deal with geometric nonlinearity and aerodynamics or hydrodynamics, and other sources of nonlinearity as well, e.g., cable-seabed interaction.
 
 ### Wave-current interactions and its effects on offshore structures
-![](/resources/waterparticlepath.gif)
+![](/resources/waterparticlepath.gif | width=100)
 - Numerical analysis of steady water waves with arbitrary vorticity
 - Numerical methods for water waves
 - Nonlinear wave-current interaction and its impact on structures
