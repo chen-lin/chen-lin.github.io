@@ -14,12 +14,13 @@ Cables are efficient structural components and widely used in structural enginee
 - Numerical analysis of steady water waves with arbitrary vorticity
 - Numerical methods for water waves
 - Nonlinear wave-current interaction and its impact on structures
-<img width="200" src="/resources/waterparticlepath.gif">
+<img width="600" src="/resources/waterparticlepath.gif">
 
 ---
 ### Mooring system analysis
 - Coupled static and dynamic analyses of mooring systems consisting of multiple cables
 - Time/frequency domain methods for solving mooring cable dynamics
+<img width="600" src="/resources/case3-5.gif">
 
 ---
 ### Stay cable vibration & control
@@ -36,3 +37,4 @@ Cables are efficient structural components and widely used in structural enginee
 ### Blind modal identification
 - Independent component analysis and second-order blind identification for structural identification
 - Blind model identification with application to real bridges, including the Donghai Bridge
+<img width="600" src="/resources/bridgeandsensor.jpg">
