@@ -11,7 +11,7 @@ Cables are efficient structural components and widely used in structural enginee
 
 ---
 ### Wave-current interactions and its effects on offshore structures
-
+|       |       |
 | :---: | :---: |
 | <img src="/resources/waterparticlepath.gif" width="200"> | 
 - Numerical analysis of steady water waves with arbitrary vorticity
