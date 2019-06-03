@@ -18,6 +18,7 @@ Cables are efficient structural components and widely used in structural enginee
 <table><tr><td>
    <img width="300" src="/resources/waterparticlepath.gif">
 </td></tr></table>
+
 ---
 ### Mooring system analysis
 - Coupled static and dynamic analyses of mooring systems consisting of multiple cables
