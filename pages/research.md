@@ -12,18 +12,10 @@ Cables are efficient structural components and widely used in structural enginee
 ---
 ### Wave-current interactions and its effects on offshore structures
 
-<div class="row">
-  <div class="col-md-4" markdown="1">
-  <img width="200" class="center-block" src="/resources/waterparticlepath.gif">
-  </div>
-  <div class="col-md-8" markdown="1">
-  Some text.
-  </div>
-</div>
-
-- Numerical analysis of steady water waves with arbitrary vorticity
-- Numerical methods for water waves 
-- Nonlinear wave-current interaction and its impact on structures 
+| <img width="200" class="center-block" src="/resources/waterparticlepath.gif"> |
+- Numerical analysis of steady water waves with arbitrary vorticity <br />
+- Numerical methods for water waves <br />
+- Nonlinear wave-current interaction and its impact on structures |
 
 ---
 ### Mooring system analysis
