@@ -9,24 +9,32 @@ Cables are efficient structural components and widely used in structural enginee
 
 ![](/resources/topics.png)
 
+---
 ### Wave-current interactions and its effects on offshore structures
 
-| <img src="/resources/waterparticlepath.gif" width="200"> | - Numerical analysis of steady water waves with arbitrary vorticity
-- Numerical methods for water waves - Nonlinear wave-current interaction and its impact on structures |
+| :---: | :---: |
+| <img src="/resources/waterparticlepath.gif" width="200"> | 
+- Numerical analysis of steady water waves with arbitrary vorticity
+- Numerical methods for water waves 
+- Nonlinear wave-current interaction and its impact on structures |
 
+---
 ### Mooring system analysis
 - Coupled static and dynamic analyses of mooring systems consisting of multiple cables
 - Time/frequency domain methods for solving mooring cable dynamics
 
+---
 ### Stay cable vibration & control
 - Novel vibration control devices/schemes
 - Nonlinear analysis of cable with nonlinear control devices
 - Numerical modeling of cable with dampers and cross-ties
 
+---
 ### Building thermodynamics
 - Time series models for building thermodynamics
 - Model predictive control
 
+---
 ### Blind modal identification
 - Independent component analysis and second-order blind identification for structural identification
 - Blind model identification with application to real bridges, including the Donghai Bridge
