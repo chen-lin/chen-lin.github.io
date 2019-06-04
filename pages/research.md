@@ -41,6 +41,5 @@ Cables are efficient structural components and widely used in structural enginee
 - Independent component analysis and second-order blind identification for structural identification
 - Blind model identification with application to real bridges, including the Donghai Bridge
 
-<table><tr><td>
-   <img width="250" src="/resources/bridgeandsensor.jpg">
-</td></tr></table>
+<img width="600" src="/resources/bridgeandsensor.jpg">
+
