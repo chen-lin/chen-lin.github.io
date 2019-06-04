@@ -25,7 +25,7 @@ Cables are efficient structural components and widely used in structural enginee
 - Time/frequency domain methods for solving mooring cable dynamics
 
 <table><tr><td>
-   <img width="250" src="/resources/case3-5.gif">
+   <img width="250" src="/resources/cable.gif">
 </td></tr></table>
 
 ---
