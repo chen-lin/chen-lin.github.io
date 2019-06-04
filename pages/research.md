@@ -15,9 +15,8 @@ Cables are efficient structural components and widely used in structural enginee
 - Numerical methods for water waves
 - Nonlinear wave-current interaction and its impact on structures
 
-<table><tr><td>
-   <img width="300" src="/resources/waterparticlepath.gif">
-</td></tr></table>
+<img width="600" src="/resources/particlepath.gif">
+
 
 ---
 ### Mooring system analysis
