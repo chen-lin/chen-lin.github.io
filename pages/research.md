@@ -24,9 +24,7 @@ Cables are efficient structural components and widely used in structural enginee
 - Coupled static and dynamic analyses of mooring systems consisting of multiple cables
 - Time/frequency domain methods for solving mooring cable dynamics
 
-<table><tr><td>
-   <img width="250" src="/resources/cable.gif">
-</td></tr></table>
+<img width="600" src="/resources/cable.gif">
 
 ---
 ### Stay cable vibration & control
