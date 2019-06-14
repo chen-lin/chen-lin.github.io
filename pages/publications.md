@@ -10,11 +10,11 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 ## Journal papers
 1. __Chen, L.__, Basu, B., & Martin, C. (2019). On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. (under review)
 
-1. __Chen, L.__ & Basu, B. (2019). Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current. (submitted)
+1. __Chen, L.__ & Basu, B. (2019). Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current. (under review)
 
-1. Sun, L., Hong, D., & __Chen, L.__ (2019). In-plane free vibrations of shallow cables with cross-ties. _Structural Control and Health Monitoring_ (under review).
+1. Sun, L., Hong, D., & __Chen, L.__ (2019). In-plane free vibrations of shallow cables with cross-ties. _Structural Control and Health Monitoring_. (under review)
 
-1. Sun, L., Xu, Y., & __Chen, L.__ (2019). Damping effects of nonlinear dampers on a shallow cable. _Engineering Structures_ (accepted).
+1. Sun, L., Xu, Y., & __Chen, L.__ (2019). Damping effects of nonlinear dampers on a shallow cable. _Engineering Structures_. (accepted)
 
 1. __Chen, L.__ & Basu, B. (2019). [Wave-current interaction effects on structural responses of floating offshore wind turbines](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2288). _Wind Energy, 22_(2), 327-339.
 
