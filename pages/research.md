@@ -16,7 +16,7 @@ Cables are efficient structural components and widely used in structural enginee
 - Nonlinear wave-current interaction and its impact on structures
 
 <img width="600" src="/resources/particlepath.gif">
-**Particle paths in two-layer steady rotational flow**
+**Particle paths in two-layer steady rotational flow
 
 ---
 ### Mooring system analysis
@@ -24,7 +24,7 @@ Cables are efficient structural components and widely used in structural enginee
 - Time/frequency domain methods for solving mooring cable dynamics
 
 <img width="600" src="/resources/cable.gif">
-**Mooring cable motion under forced harmonic displacement at the top end**
+**Mooring cable motion under forced harmonic displacement at the top end
 
 ---
 ### Stay cable vibration & control
@@ -43,5 +43,5 @@ Cables are efficient structural components and widely used in structural enginee
 - Blind model identification with application to real bridges, including the Donghai Bridge
 
 <img width="600" src="/resources/bridgeandsensor.jpg">
-**Acceleration measurements of the Shanghai Yangzte River Bridge**
+**Acceleration measurements of the Shanghai Yangzte River Bridge
 
