@@ -17,16 +17,16 @@ Cables are efficient structural components and widely used in structural enginee
 
 | <img width="600" src="/resources/particlepath.gif"> |
 |:---:|
-| Particle paths in two-layer steady rotational flow |
+| **Particle paths in two-layer steady rotational flow** |
 
 ---
 ### Mooring system analysis
 - Coupled static and dynamic analyses of mooring systems consisting of multiple cables
 - Time/frequency domain methods for solving mooring cable dynamics
 
-<img width="600" src="/resources/cable.gif">
-
-**Mooring cable motion under forced harmonic displacement at the top end**
+| <img width="600" src="/resources/cable.gif"> |
+|:---:|
+| **Mooring cable motion under forced harmonic displacement at the top end** |
 
 ---
 ### Stay cable vibration & control
@@ -44,7 +44,7 @@ Cables are efficient structural components and widely used in structural enginee
 - Independent component analysis and second-order blind identification for structural identification
 - Blind model identification with application to real bridges, including the Donghai Bridge
 
-<img width="600" src="/resources/bridgeandsensor.jpg">
-
-**Acceleration measurements of the Shanghai Yangzte River Bridge**
+| <img width="600" src="/resources/bridgeandsensor.jpg"> |
+|:---:|
+| **Acceleration measurements of the Shanghai Yangzte River Bridge** |
 
