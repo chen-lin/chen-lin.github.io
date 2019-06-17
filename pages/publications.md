@@ -12,7 +12,7 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. __Chen, L.__ & Basu, B. (2019). Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current. (under review)
 
-1. Sun, L., Hong, D., & __Chen, L.__ (2019). In-plane free vibrations of shallow cables with cross-ties. _Structural Control and Health Monitoring_. (under review)
+1. Sun, L., Hong, D., & __Chen, L.__ (2019). In-plane free vibrations of shallow cables with cross-ties. _Structural Control and Health Monitoring_. (accepted)
 
 1. Sun, L., Xu, Y., & __Chen, L.__ (2019). Damping effects of nonlinear dampers on a shallow cable. _Engineering Structures_. (accepted)
 
