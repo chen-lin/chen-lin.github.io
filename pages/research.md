@@ -16,7 +16,7 @@ Cables are efficient structural components and widely used in structural enginee
 - Nonlinear wave-current interaction and its impact on structures
 
 <img width="600" src="/resources/particlepath.gif">
-__Particle paths in two-layer rotational flow__
+**Particle paths in two-layer steady rotational flow**
 
 ---
 ### Mooring system analysis
@@ -24,7 +24,7 @@ __Particle paths in two-layer rotational flow__
 - Time/frequency domain methods for solving mooring cable dynamics
 
 <img width="600" src="/resources/cable.gif">
-__Mooring cable motion under forced harmonic displacement at the top end__
+**Mooring cable motion under forced harmonic displacement at the top end**
 
 ---
 ### Stay cable vibration & control
@@ -43,5 +43,5 @@ __Mooring cable motion under forced harmonic displacement at the top end__
 - Blind model identification with application to real bridges, including the Donghai Bridge
 
 <img width="600" src="/resources/bridgeandsensor.jpg">
-__Acceleration measurements of the Shanghai Yangzte River Bridge__
+**Acceleration measurements of the Shanghai Yangzte River Bridge**
 
