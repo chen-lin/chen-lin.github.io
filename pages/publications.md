@@ -14,7 +14,7 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. Sun, L., Hong, D., & __Chen, L.__ (2019). In-plane free vibrations of shallow cables with cross-ties. _Structural Control and Health Monitoring_. (accepted)
 
-1. Sun, L., Xu, Y., & __Chen, L.__ (2019). Damping effects of nonlinear dampers on a shallow cable. _Engineering Structures_. (accepted)
+1. Sun, L., Xu, Y., & __Chen, L.__ (2019). [Damping effects of nonlinear dampers on a shallow cable](https://doi.org/10.1016/j.engstruct.2019.109305). _Engineering Structures, 196_, 109305.
 
 1. __Chen, L.__ & Basu, B. (2019). [Wave-current interaction effects on structural responses of floating offshore wind turbines](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2288). _Wind Energy, 22_(2), 327-339.
 
