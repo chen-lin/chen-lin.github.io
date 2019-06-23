@@ -10,6 +10,8 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 ## Journal papers
 1. __Chen, L.__, Basu, B., & Martin, C. (2019). On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. (under review)
 
+1. Sarkar, S., __Chen, L.__, Fitzgerald, B., & Basu, B. (2019). Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions. (under review)
+
 1. __Chen, L.__ & Basu, B. (2019). Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current, _Applicable Analysis_. (accepted)
 
 1. Sun, L., Hong, D., & __Chen, L.__ (2019). In-plane free vibrations of shallow cables with cross-ties. _Structural Control and Health Monitoring_. (accepted)
