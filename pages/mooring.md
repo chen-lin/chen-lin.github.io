@@ -1,4 +1,10 @@
+---
+layout: page
+title: Mooring system dynamics
+permalink: /research/mooring/
+---
 
+## Summary
 - Coupled static and dynamic analyses of mooring systems consisting of multiple cables
 - Time/frequency domain methods for solving mooring cable dynamics
 
