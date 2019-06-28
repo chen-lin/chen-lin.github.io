@@ -10,4 +10,6 @@ permalink: /research/wci/
 - Numerical methods for water waves
 - Nonlinear wave-current interaction and its impact on structures
 
-![](/resources/topics.png)
+| <img width="600" src="/resources/particlepath.gif"> |
+|:---:|
+| **Particle paths in two-layer steady rotational flow** |
