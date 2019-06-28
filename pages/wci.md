@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wave-current interactions and its effects on offshore structures
-permalink: /research/wci
+permalink: /research/wci/
 ---
 Our research focuses on understanding and controlling structural dynamic behavoirs in operational conditions, using advanced theoretical and numerical methods. Particularly interested are structures including stay cables, mooring cables, and bridges. 
 
