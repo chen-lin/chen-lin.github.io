@@ -4,7 +4,6 @@ title: Wave-current interactions and its effects on offshore structures
 permalink: /research/wci/
 ---
 
-## Summary
 
 - Numerical analysis of steady water waves with arbitrary vorticity
 - Numerical methods for water waves
