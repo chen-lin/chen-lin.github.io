@@ -16,6 +16,6 @@ Cables are efficient structural components and widely used in structural enginee
 1. [Mooring system dynamics and its impact on offshore floating wind turbines](/research/mooring/)
 1. [Stay cable vibration and control](/research/cablevib/)
 1. [Building thermodynamics modeling and control](/research/building/)
-1. [Blind modal identification](/research/identification/)
+1. [Structural modal identification](/research/identification/)
 
 ![](/resources/topics.png)
