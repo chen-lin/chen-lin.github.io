@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stay cable vibration & control
-permalink: /research/wci/
+permalink: /research/cablevib/
 ---
 
 ## Summary
