@@ -4,7 +4,6 @@ title: Structural modal identification
 permalink: /research/identification/
 ---
 
-## Summary
 - Independent component analysis and second-order blind identification for structural identification
 - Blind model identification with application to real bridges, including the Donghai Bridge
 
