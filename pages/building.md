@@ -4,6 +4,6 @@ title: Building thermodynamics
 permalink: /research/building/
 ---
 
-# Overview
+# Summary
 - Time series models for building thermodynamics
 - Model predictive control
