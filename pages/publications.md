@@ -6,9 +6,9 @@ permalink: /publications/
 
 See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en) for citations.
 
-## Table of Content
+## Table of content
 1. [Journal papers](#journal)
-   * [In interational journals](#j-int)
+   * [In international journals](#j-int)
    * [In Chinese journals](#j-chn)
 2. [Conference papers](#conf)
 3. [Thesis](#thesis)
