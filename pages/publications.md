@@ -8,11 +8,11 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 # Table of Content
 1. [Journal papers](#journal)
-  * [In interational journals](#j-int)
-  * [In Chinese journals](#j-chn)
+   * [In interational journals](#j-int)
+   * [In Chinese journals](#j-chn)
 2. [Conference papers](#conf)
 3. [Thesis](#thesis)
-  * [PhD dissertation](#phd-thesis)
+   * [PhD dissertation](#phd-thesis)
 
 <a name="journal"></a>
 ## Journal papers
