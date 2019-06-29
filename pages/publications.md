@@ -6,7 +6,17 @@ permalink: /publications/
 
 See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en) for citations.
 
+# Table of Content
+1. [Journal papers](#journal)
+  1. [In interational journals](#j-int)
+  1. [In Chinese journals](#j-chn)
+1. [Conference papers](#conf)
+1. [Thesis](#thesis)
+  1. [PhD dissertation] (#phd-thesis)
+
+<a name="journal"></a>
 ## Journal papers
+<a name="j-int"></a>
 ### In international journals
 1. __Chen, L.__, Basu, B., & Martin, C. (2019). On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. (under review)
 
@@ -44,10 +54,12 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. __Chen, L.__ & Sun, L. (2015). [Laboratory-Scale Experimental Setup for Studying Cable Dampers](http://ascelibrary.org/doi/abs/10.1061/(ASCE)EM.1943-7889.0000878). _Journal of Engineering Mechanics, 141_(5), 04014159.
 
+<a name="j-chn"></a>
 ### 中文文章
 
 1. __陈林__ , 孙利民(2012). [用于阻尼器试验的斜拉索等效模型建模](http://engineeringmechanics.cn/CN/volumn/volumn_199.shtml). _工程力学, 29_(S2), 139-143.
 
+<a name="conf"></a>
 ## Conference papers
 
 1. __Chen, L.__ & Basu, B. (2018). [Development of an open-source simulation tool for mooring systems](https://www.researchgate.net/publication/327424791_Development_of_an_open-source_simulation_tool_for_mooring_systems). In _Proceedings of the 2018 Civil Engineering Research in Ireland conference_ (CERI2018), Dublin, Ireland, pp. 823-828.
@@ -76,8 +88,10 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. Sun, L. & __Chen, L.__ (2011). Equivalent model of stay cable with full-scale damper for experimental study. In _Proceedings of the 9th International Symposium on Cable Dynamics_ (ISCD), Shanghai, China, pp. 55-61.
 
+<a name="thesis"></a>
 ## Thesis
 
+<a name="phd-thesis"></a>
 ### 博士论文
 
 - __陈林__, 2015. [斜拉索阻尼器减振方案及分析方法研究](https://www.researchgate.net/publication/318760977_xielasuozuniqijianzhenfanganjifenxifangfayanjiu). _博士论文_,同济大学.
