@@ -40,19 +40,19 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. Sun, L. & __Chen, L.__ (2017). [Residual mode correction in calibrating nonlinear damper for vibration control of flexible structures](http://www.sciencedirect.com/science/article/pii/S0022460X17304819). _Journal of Sound and Vibration, 406_, 197-207.
 
-1. __Chen, L.__ & Sun, L. (2017). [Steady-State Analysis of Cable with Nonlinear Damper via Harmonic Balance Method for Maximizing Damping](http://ascelibrary.org/doi/abs/10.1061/(ASCE)ST.1943-541X.0001645). _Journal of Structural Engineering, 143_(2), 04016172.
+1. __Chen, L.__ & Sun, L. (2017). [Steady-state analysis of cable with nonlinear damper via harmonic balance method for maximizing damping](http://ascelibrary.org/doi/abs/10.1061/(ASCE)ST.1943-541X.0001645). _Journal of Structural Engineering, 143_(2), 04016172.
 
 1. __Chen, L.__, Basu, B. & McCabe, D. (2016). [Fractional order models for system identification of thermal dynamics of buildings](http://www.sciencedirect.com/science/article/pii/S0378778816308064). _Energy and Buildings, 133_, 381-388. ([code](https://github.com/chen-lin/farx))
 
 1. __Chen, L.__, Sun, L. & Nagarajaiah, S. (2016). [Cable vibration control with both lateral and rotational dampers attached at an intermediate location](http://www.sciencedirect.com/science/article/pii/S0022460X16300815). _Journal of Sound and Vibration, 377_, 38-57.
 
-1. Sun, S., Sun, L. & __Chen, L.__ (2016). [Damage Detection Based on Structural Responses Induced by Traffic Load: Methodology and Application](http://dx.doi.org/10.1142/S0219455416400265). _International Journal of Structural Stability and Dynamics, 16_(04), 1640026.
+1. Sun, S., Sun, L. & __Chen, L.__ (2016). [Damage detection based on structural responses induced by traffic load: Methodology and application](http://dx.doi.org/10.1142/S0219455416400265). _International Journal of Structural Stability and Dynamics, 16_(04), 1640026.
 
 1. Sun, L. & __Chen, L.__ (2015). [Free vibrations of a taut cable with a general viscoelastic damper modeled by fractional derivatives](http://www.sciencedirect.com/science/article/pii/S0022460X14007469). _Journal of Sound and Vibration, 335_, 19-33.
 
 1. __Chen, L.__, Sun, L. & Nagarajaiah, S. (2015). [Cable with discrete negative stiffness device and viscous damper: Passive realization and general characteristics](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=KJKHFZ_2015_v15n3_627). _Smart Structures and Systems, 15_(3), 627-643. ([pdf](https://www.researchgate.net/profile/Satish_Nagarajaiah/publication/275237636_Cable_with_discrete_negative_stiffness_device_and_viscous_damper_Passive_realization_and_general_characteristics/links/55823e5808aeab1e4666e64d/Cable-with-discrete-negative-stiffness-device-and-viscous-damper-Passive-realization-and-general-characteristics.pdf))
 
-1. __Chen, L.__ & Sun, L. (2015). [Laboratory-Scale Experimental Setup for Studying Cable Dampers](http://ascelibrary.org/doi/abs/10.1061/(ASCE)EM.1943-7889.0000878). _Journal of Engineering Mechanics, 141_(5), 04014159.
+1. __Chen, L.__ & Sun, L. (2015). [Laboratory-scale experimental setup for studying cable dampers](http://ascelibrary.org/doi/abs/10.1061/(ASCE)EM.1943-7889.0000878). _Journal of Engineering Mechanics, 141_(5), 04014159.
 
 <a name="j-chn"></a>
 ### 中文文章
@@ -74,15 +74,15 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. __Chen, L.__ & Sun, L. (2017). [Calibration of nonlinear damper for shallow cable based on forced vibration analysis](https://www.researchgate.net/profile/Lin_Chen96/publication/320554603_Calibration_of_nonlinear_damper_for_shallow_cable_based_on_forced_vibration_analysis/links/59ec525c0f7e9bfdeb705cbf/Calibration-of-nonlinear-damper-for-shallow-cable-based-on-forced-vibration-analysis.pdf). In _Proceedings of the 15th East Asia-Pacific Conference on Structural Engineering & Construction_ (EASEC-15), Xi’an, China, pp. 1852-1859.
 
-1. Sun, L. & __Chen, L.__ (2017). [Optimizing Nonlinear Damper Performance for Multi-Mode Cable Vibration Control based on Forced Vibration Responses](http://www.ingentaconnect.com/contentone/iabse/report/2017/00000109/00000013/art00005). In _IABSE Symposium Report, IABSE Symposium Vancouver 2017: Engineering the Future_, Vancouver, Canada, pp. 2997-3002.
+1. Sun, L. & __Chen, L.__ (2017). [Optimizing nonlinear damper performance for multi-Mode cable vibration control based on forced vibration responses](http://www.ingentaconnect.com/contentone/iabse/report/2017/00000109/00000013/art00005). In _IABSE Symposium Report, IABSE Symposium Vancouver 2017: Engineering the Future_, Vancouver, Canada, pp. 2997-3002.
 
 1. __Chen, L.__ & Basu, B. (2017). [A numerical study on super-harmonic responses of mooring cables subjected to top end excitations](https://www.researchgate.net/publication/320741571_A_numerical_study_on_super-harmonic_responses_of_mooring_cables_subjected_to_top_end_excitations). In _Proceedings of  the International Symposium on the Dynamics and Aerodynamics of Cables_ (ISDAC), Porto, Portugal, pp. 291-299.
 
-1. __Chen, L.__ & Basu, B. (2017). [A numerical Study on In-plane Wave Propagation in Mooring Cables](https://doi.org/10.1016/j.proeng.2016.12.146). _Procedia Engineering, 173_, 934-939.
+1. __Chen, L.__ & Basu, B. (2017). [A numerical study on in-plane wave propagation in mooring cables](https://doi.org/10.1016/j.proeng.2016.12.146). _Procedia Engineering, 173_, 934-939.
 
-1. Sun, L. & __Chen, L.__ (2016). [Periodic Responses of a Taut Cable Attached with a Friction Damper Computed Using Multi-Harmonic Balance Method](http://www.ingentaconnect.com/contentone/iabse/report/2016/00000106/00000009/art00006). In _IABSE Symposium Report, IABSE Conference Guangzhou 2016: Bridges and Structures Sustainability-Seeking Intelligent Solutions_, pp. 464-471.
+1. Sun, L. & __Chen, L.__ (2016). [Periodic responses of a taut cable attached with a friction damper computed using multi-harmonic balance method](http://www.ingentaconnect.com/contentone/iabse/report/2016/00000106/00000009/art00006). In _IABSE Symposium Report, IABSE Conference Guangzhou 2016: Bridges and Structures Sustainability-Seeking Intelligent Solutions_, pp. 464-471.
 
-1. __Chen, L.__ & Sun, L. (2014). [Dynamic Characteristics of a Taut Cable with a Maxwell Damper](https://www.researchgate.net/publication/281550889_Dynamic_Characteristics_of_a_Taut_Cable_with_a_Maxwell_Damper). In _Proceedings of the 6th World Conference on Structural Control and Monitoring_ (6WCSCM), Barcelona, Spain, pp. 2891-2900.
+1. __Chen, L.__ & Sun, L. (2014). [Dynamic characteristics of a taut cable with a Maxwell damper](https://www.researchgate.net/publication/281550889_Dynamic_Characteristics_of_a_Taut_Cable_with_a_Maxwell_Damper). In _Proceedings of the 6th World Conference on Structural Control and Monitoring_ (6WCSCM), Barcelona, Spain, pp. 2891-2900.
 
 1. __Chen, L.__, Nagarajaiah, S. & Sun, L. (2014). [Modal identification of a long-span cable-stayed bridge by blind source separation](https://www.researchgate.net/profile/Lin_Chen96/publication/281551121_Modal_Identification_of_a_Long-span_Cable-stayed_Bridge_by_Blind_Source_Separation/links/55ed688108aeb6516268da33.pdf). In _Proceedings of the 6th World Conference on Structural Control and Monitoring_ (6WCSCM), Barcelona, Spain, pp. 2522-2531.
 
