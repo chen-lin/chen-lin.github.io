@@ -6,19 +6,6 @@ permalink: /publications/
 
 See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en) for citations.
 
-## Working papers
-
-
-## Selected publications
-
-1. Sun, L., Hong, D., & __Chen, L.__ (2019).\
-   In-plane free vibrations of shallow cables with cross-ties. 
-   _Structural Control and Health Monitoring_. (accepted)
-   
-1. Sun, L., Hong, D., & __Chen, L.__ (2019).\
-   In-plane free vibrations of shallow cables with cross-ties. 
-   _Structural Control and Health Monitoring_. (accepted)   
-
 ## Table of contents
 - [Journal papers](#journal)
    * [In international journals](#j-int)
@@ -31,23 +18,45 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 ## Journal papers
 <a name="j-int"></a>
 ### In international journals
-1. __Chen, L.__, Basu, B., & Martin, C. (2019). On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. (under review)
+1. __Chen, L.__, Basu, B., & Martin, C. (2019).\
+   On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. (under review)
 
-1. Sarkar, S., __Chen, L.__, Fitzgerald, B., & Basu, B. (2019). Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions. (under review)
+1. Sarkar, S., __Chen, L.__, Fitzgerald, B., & Basu, B. (2019).\
+   Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions. 
+   (under review)
 
-1. Sun, L., Hong, D., & __Chen, L.__ (2019). In-plane free vibrations of shallow cables with cross-ties. _Structural Control and Health Monitoring_. (accepted)
+1. Sun, L., Hong, D., & __Chen, L.__ (2019).\
+   In-plane free vibrations of shallow cables with cross-ties.\
+   _Structural Control and Health Monitoring_. (accepted)
 
-1. __Chen, L.__ & Basu, B. (2019). [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). _Applicable Analysis_.
+1. __Chen, L.__ & Basu, B. (2019).\
+   [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current]
+   (https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974).\
+   _Applicable Analysis_.
 
-1. Sun, L., Xu, Y., & __Chen, L.__ (2019). [Damping effects of nonlinear dampers on a shallow cable](https://doi.org/10.1016/j.engstruct.2019.109305). _Engineering Structures, 196_, 109305.
+1. Sun, L., Xu, Y., & __Chen, L.__ (2019).\
+   [Damping effects of nonlinear dampers on a shallow cable](https://doi.org/10.1016/j.engstruct.2019.109305).\
+   _Engineering Structures, 196_, 109305.
 
-1. __Chen, L.__ & Basu, B. (2019). [Wave-current interaction effects on structural responses of floating offshore wind turbines](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2288). _Wind Energy, 22_(2), 327-339.
+1. __Chen, L.__ & Basu, B. (2019).\
+   [Wave-current interaction effects on structural responses of floating offshore wind turbines]
+   (https://onlinelibrary.wiley.com/doi/full/10.1002/we.2288).\
+   _Wind Energy, 22_(2), 327-339.
 
-1. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2019). [Nonlinear periodic response analysis of mooring cables using harmonic balance method](https://www.sciencedirect.com/science/article/pii/S0022460X18306126). _Journal of Sound and Vibration, 438_, 402-418.
+1. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2019).\
+   [Nonlinear periodic response analysis of mooring cables using harmonic balance method]
+   (https://www.sciencedirect.com/science/article/pii/S0022460X18306126).\
+   _Journal of Sound and Vibration, 438_, 402-418.
 
-1. __Chen, L.__ & Basu, B. (2018). [Fatigue load estimation of a spar-type floating offshore wind turbine considering wave-current interactions](https://doi.org/10.1016/j.ijfatigue.2018.06.002). _International Journal of Fatigue, 116_, 421-428.
+1. __Chen, L.__ & Basu, B. (2018).\
+   [Fatigue load estimation of a spar-type floating offshore wind turbine considering wave-current interactions]
+   (https://doi.org/10.1016/j.ijfatigue.2018.06.002).\
+   _International Journal of Fatigue, 116_, 421-428.
 
-1. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2018). [A coupled finite difference mooring dynamics model for floating offshore wind turbine analysis](https://www.sciencedirect.com/science/article/pii/S0029801818307005). _Ocean Engineering,162_, 304-315.
+1. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2018).\
+   [A coupled finite difference mooring dynamics model for floating offshore wind turbine analysis]
+   (https://www.sciencedirect.com/science/article/pii/S0029801818307005).\
+   _Ocean Engineering,162_, 304-315.
 
 1. Sun, L., Hong, D. & __Chen, L.__ (2017). [Cables interconnected with tuned inerter damper for vibration mitigation](https://www.sciencedirect.com/science/article/pii/S0141029617300743). _Engineering Structures, 151_, 57-67.
 
