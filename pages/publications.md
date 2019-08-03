@@ -6,6 +6,19 @@ permalink: /publications/
 
 See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en) for citations.
 
+## Working papers
+
+
+## Selected publications
+
+1. Sun, L., Hong, D., & __Chen, L.__ (2019). 
+   In-plane free vibrations of shallow cables with cross-ties. 
+   _Structural Control and Health Monitoring_. (accepted)
+   
+1. Sun, L., Hong, D., & __Chen, L.__ (2019). 
+   In-plane free vibrations of shallow cables with cross-ties. 
+   _Structural Control and Health Monitoring_. (accepted)   
+
 ## Table of contents
 - [Journal papers](#journal)
    * [In international journals](#j-int)
