@@ -10,7 +10,7 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. __Lin Chen__ and Biswajit Basu (2019). <br />
 [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). <br />
-_Applicable Analysis_.
+_Applicable Analysis_. <br />
 <img width="600" src="/resources/wci.jpg">
 
 1. Limin Sun, Dongxiao Hong, and __Lin Chen__ (2019). <br />
