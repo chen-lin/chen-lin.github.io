@@ -8,27 +8,45 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 ## Selected publications (see [full list](#fulllist))
 
-1. Sun, Limin, Hong, Dongxiao, and Chen, Lin (2019). <br />
+1. __Lin Chen__ and Biswajit Basu (2019). <br />
+[Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). <br />
+_Applicable Analysis_.
+
+1. Limin Sun, Dongxiao Hong, and Lin Chen (2019). <br />
 [In-plane free vibrations of shallow cables with cross-ties](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2421). <br />
 _Structural Control and Health Monitoring_. e2421.
 
-1. __Chen, L.__ & Basu, B. (2019). [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). _Applicable Analysis_.
+1. __Lin Chen__ and Biswajit Basu (2019). <br />
+[Wave-current interaction effects on structural responses of floating offshore wind turbines](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2288). <br />
+_Wind Energy, 22_(2), 327-339.
 
-1. __Chen, L.__ & Basu, B. (2019). [Wave-current interaction effects on structural responses of floating offshore wind turbines](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2288). _Wind Energy, 22_(2), 327-339.
+1. __Lin Chen__, Biswajit Basu, and Søren R.K. Nielsen (2019). <br />
+[Nonlinear periodic response analysis of mooring cables using harmonic balance method](https://www.sciencedirect.com/science/article/pii/S0022460X18306126). <br />
+_Journal of Sound and Vibration, 438_, 402-418.
 
-1. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2019). [Nonlinear periodic response analysis of mooring cables using harmonic balance method](https://www.sciencedirect.com/science/article/pii/S0022460X18306126). _Journal of Sound and Vibration, 438_, 402-418.
+1. __Lin Chen__, Biswajit Basu, and Søren R.K. Nielsen (2019). <br />
+[A coupled finite difference mooring dynamics model for floating offshore wind turbine analysis](https://www.sciencedirect.com/science/article/pii/S0029801818307005). <br />
+_Ocean Engineering,162_, 304-315.
 
-1. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2018). [A coupled finite difference mooring dynamics model for floating offshore wind turbine analysis](https://www.sciencedirect.com/science/article/pii/S0029801818307005). _Ocean Engineering,162_, 304-315.
+1. Limin Sun, Dongxiao Hong, and __Lin Chen__ (2017). <br />
+[Cables interconnected with tuned inerter damper for vibration mitigation](https://www.sciencedirect.com/science/article/pii/S0141029617300743). <br />
+_Engineering Structures, 151_, 57-67.
 
-1. Sun, L., Hong, D. & __Chen, L.__ (2017). [Cables interconnected with tuned inerter damper for vibration mitigation](https://www.sciencedirect.com/science/article/pii/S0141029617300743). _Engineering Structures, 151_, 57-67.
+1. Limin Sun and __Lin Chen__ (2017). <br />
+[Residual mode correction in calibrating nonlinear damper for vibration control of flexible structures](http://www.sciencedirect.com/science/article/pii/S0022460X17304819). <br />
+_Journal of Sound and Vibration, 406_, 197-207.
 
-1. Sun, L. & __Chen, L.__ (2017). [Residual mode correction in calibrating nonlinear damper for vibration control of flexible structures](http://www.sciencedirect.com/science/article/pii/S0022460X17304819). _Journal of Sound and Vibration, 406_, 197-207.
+1. __Lin Chen__ and Limin Sun (2017). <br />
+[Steady-state analysis of cable with nonlinear damper via harmonic balance method for maximizing damping](http://ascelibrary.org/doi/abs/10.1061/(ASCE)ST.1943-541X.0001645). <br />
+_Journal of Structural Engineering, 143_(2), 04016172.
 
-1. __Chen, L.__ & Sun, L. (2017). [Steady-state analysis of cable with nonlinear damper via harmonic balance method for maximizing damping](http://ascelibrary.org/doi/abs/10.1061/(ASCE)ST.1943-541X.0001645). _Journal of Structural Engineering, 143_(2), 04016172.
+1. Limin Sun and __Lin Chen__ (2015). <br />
+[Free vibrations of a taut cable with a general viscoelastic damper modeled by fractional derivatives](http://www.sciencedirect.com/science/article/pii/S0022460X14007469). <br />
+_Journal of Sound and Vibration, 335_, 19-33.
 
-1. Sun, L. & __Chen, L.__ (2015). [Free vibrations of a taut cable with a general viscoelastic damper modeled by fractional derivatives](http://www.sciencedirect.com/science/article/pii/S0022460X14007469). _Journal of Sound and Vibration, 335_, 19-33.
-
-1. __Chen, L.__, Sun, L. & Nagarajaiah, S. (2015). [Cable with discrete negative stiffness device and viscous damper: Passive realization and general characteristics](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=KJKHFZ_2015_v15n3_627). _Smart Structures and Systems, 15_(3), 627-643. ([pdf](https://www.researchgate.net/profile/Satish_Nagarajaiah/publication/275237636_Cable_with_discrete_negative_stiffness_device_and_viscous_damper_Passive_realization_and_general_characteristics/links/55823e5808aeab1e4666e64d/Cable-with-discrete-negative-stiffness-device-and-viscous-damper-Passive-realization-and-general-characteristics.pdf))
+1. __Lin Chen__, Limin Sun, & Satish Nagarajaiah (2015). <br />
+[Cable with discrete negative stiffness device and viscous damper: Passive realization and general characteristics](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=KJKHFZ_2015_v15n3_627). <br />
+_Smart Structures and Systems, 15_(3), 627-643. ([pdf](https://www.researchgate.net/profile/Satish_Nagarajaiah/publication/275237636_Cable_with_discrete_negative_stiffness_device_and_viscous_damper_Passive_realization_and_general_characteristics/links/55823e5808aeab1e4666e64d/Cable-with-discrete-negative-stiffness-device-and-viscous-damper-Passive-realization-and-general-characteristics.pdf))
 
 
 <a name="fulllist"></a>
