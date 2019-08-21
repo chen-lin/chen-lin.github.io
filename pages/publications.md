@@ -6,12 +6,14 @@ permalink: /publications/
 
 See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en) for citations.
 
-## Selected publications
+## Selected publications (see [full list](#fulllist))
 
 
-{% if post.excerpt != post.content %}
-    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-{% endif %}
+
+
+<a name="fulllist"></a>
+# Full list of publications
+<a name="fulllist"></a>
 
 ## Table of contents
 - [Journal papers](#journal)
