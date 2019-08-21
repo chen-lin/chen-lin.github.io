@@ -8,8 +8,8 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 ## Selected publications (see [full list](#fulllist))
 
-1. Sun, Limin, Hong, Dongxiao, and Chen, Lin (2019). 
-[In-plane free vibrations of shallow cables with cross-ties](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2421). 
+1. Sun, Limin, Hong, Dongxiao, and Chen, Lin (2019). <br />
+[In-plane free vibrations of shallow cables with cross-ties](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2421). <br />
 _Structural Control and Health Monitoring_. e2421.
 
 1. __Chen, L.__ & Basu, B. (2019). [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). _Applicable Analysis_.
