@@ -12,7 +12,8 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). <br />
 _Applicable Analysis_.
 
-1. Limin Sun, Dongxiao Hong, and Lin Chen (2019). <br />
+
+1. Limin Sun, Dongxiao Hong, and __Lin Chen__ (2019). <br />
 [In-plane free vibrations of shallow cables with cross-ties](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2421). <br />
 _Structural Control and Health Monitoring_. e2421.
 
