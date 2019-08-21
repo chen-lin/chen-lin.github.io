@@ -6,9 +6,13 @@ permalink: /publications/
 
 See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en) for citations.
 
+## Selected publications
 
 
-[[MORE]]
+{% if post.excerpt != post.content %}
+    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+{% endif %}
+
 ## Table of contents
 - [Journal papers](#journal)
    * [In international journals](#j-int)
