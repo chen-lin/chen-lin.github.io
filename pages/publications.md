@@ -30,7 +30,7 @@ _Ocean Engineering,162_, 304-315.<br /><img width="600" src="/resources/coupled-
 
 1. Limin Sun, Dongxiao Hong, and __Lin Chen__ (2017). <br />
 [Cables interconnected with tuned inerter damper for vibration mitigation](https://www.sciencedirect.com/science/article/pii/S0141029617300743). <br />
-_Engineering Structures, 151_, 57-67.<br /><img width="600" src="/resources/cablenet.jpg">
+_Engineering Structures, 151_, 57-67.<br /><img width="600" src="/resources/tid.jpg">
 
 1. Limin Sun and __Lin Chen__ (2017). <br />
 [Residual mode correction in calibrating nonlinear damper for vibration control of flexible structures](http://www.sciencedirect.com/science/article/pii/S0022460X17304819). <br />
