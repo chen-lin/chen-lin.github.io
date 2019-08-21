@@ -53,7 +53,7 @@ _Smart Structures and Systems, 15_(3), 627-643. ([pdf](https://www.researchgate.
 # Full list
 
 ## Table of contents
-- Working papers (#workpaper)
+- [Working papers](#workpaper)
 - [Journal papers](#journal)
    * [In international journals](#j-int)
    * [In Chinese journals](#j-chn)
@@ -208,4 +208,6 @@ In _Proceedings of the 9th International Symposium on Cable Dynamics_ (ISCD), Sh
 <a name="phd-thesis"></a>
 ### 博士论文
 
-- __陈林__, 2015. <br />[斜拉索阻尼器减振方案及分析方法研究](https://www.researchgate.net/publication/318760977_xielasuozuniqijianzhenfanganjifenxifangfayanjiu). _博士论文_,同济大学.
+- __陈林__, 2015. <br />
+[斜拉索阻尼器减振方案及分析方法研究](https://www.researchgate.net/publication/318760977_xielasuozuniqijianzhenfanganjifenxifangfayanjiu). <br />
+_博士论文_,同济大学.
