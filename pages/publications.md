@@ -6,7 +6,7 @@ permalink: /publications/
 
 See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en) for citations.
 
-## Selected publications (see [full list](#fulllist))
+## Selected papers (see full list [here](#fulllist))
 
 1. __Lin Chen__ and Biswajit Basu (2019). <br />
 [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). <br />
