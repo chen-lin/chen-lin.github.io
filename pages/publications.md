@@ -10,7 +10,7 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. __Lin Chen__ and Biswajit Basu (2019). <br />
 [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). <br />
-_Applicable Analysis_. <br /><img width="600" src="/resources/bifurcation.jpg">
+_Applicable Analysis_. [(dataset & code)](https://github.com/chen-lin/lawic)<br /><img width="600" src="/resources/bifurcation.jpg">
 
 1. Limin Sun, Dongxiao Hong, and __Lin Chen__ (2019). <br />
 [In-plane free vibrations of shallow cables with cross-ties](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2421). <br />
