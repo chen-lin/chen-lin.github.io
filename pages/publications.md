@@ -17,20 +17,19 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 <a name="workpaper"></a>
 ### Working papers
+1. __Chen, L.__, Basu, B., & Martin, C. (2019). <br />
+On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
+(in revision)
 
 1. Di, F., _et al._ (2019). <br />
 A full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers. <br />
 (under review)
 
-1. Hou, N., Sun, L., & Chen, L. (2019). <br />
+1. Hou, N., Sun, L., & __Chen, L.__ (2019). <br />
 Cable reliability assessments by using identified tension forces and monitored loads. <br />
 (under review)
 
-1. __Chen, L.__, Basu, B., & Martin, C. (2019). <br />
-On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
-(in revision)
-
-1. __Chen, L.__ et al. (2019). <br />
+1. __Chen, L.__ _et al._ (2019). <br />
 Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge. <br />
 _Structural Control and Health Monitoring_. <br />
 (minor revision)
