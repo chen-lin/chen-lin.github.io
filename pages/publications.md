@@ -37,6 +37,7 @@ _Structural Control and Health Monitoring_. <br />
 
 1. Sarkar, S., __Chen, L.__, Fitzgerald, B., & Basu, B. (2019). <br />
 Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions. <br />
+_Journal of Sound and Vibration_. <br />
 (under review)
 
 <a name="journal"></a>
