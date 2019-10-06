@@ -19,11 +19,11 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 ### Working papers
 
 1. Di, F., _et al._ (2019). <br />
-A Full-scale Experimental Study on Vibration Control of Bridge Suspenders Using Stockbridge Dampers. <br />
+A full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers. <br />
 (under review)
 
 1. Hou, N., Sun, L., & Chen, L. (2019). <br />
-Cable Reliability Assessments by using Identified Tension Forces and Monitored Loads. <br />
+Cable reliability assessments by using identified tension forces and monitored loads. <br />
 (under review)
 
 1. __Chen, L.__, Basu, B., & Martin, C. (2019). <br />
