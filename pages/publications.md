@@ -17,6 +17,10 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 <a name="workpaper"></a>
 ### Working papers
+1. __Chen, L.__, Nagarajaiah, S., & Sun, L. (2019). <br />
+Negative stiffness device versus inerter-based absorber for multi-mode cable vibration control. <br/>
+(under review)
+
 1. __Chen, L.__, Basu, B., & Martin, C. (2019). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
 (in revision)
