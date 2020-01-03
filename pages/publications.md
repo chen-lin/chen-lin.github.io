@@ -38,16 +38,15 @@ Multi-mode cable vibration control using a viscous-shear damper: Case studies on
 _Structural Control and Health Monitoring_. <br />
 (minor revision)
 
-1. Sarkar, S., __Chen, L.__, Fitzgerald, B., & Basu, B. (2019). <br />
-Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions. <br />
-_Journal of Sound and Vibration_. <br />
-(under review)
-
 <a name="journal"></a>
 ## Journal papers
 <a name="j-int"></a>
 
 ### In international journals
+1. Sarkar, S., __Chen, L.__, Fitzgerald, B., & Basu, B. (2020). <br />
+Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions. <br />
+_Journal of Sound and Vibration_. (Accepted)
+
 1. Sun, L., Hong, D., & __Chen, L.__ (2019). <br />
 [In-plane free vibrations of shallow cables with cross-ties](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2421). <br />
 _Structural Control and Health Monitoring_. e2421.
