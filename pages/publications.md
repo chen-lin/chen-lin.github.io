@@ -44,12 +44,12 @@ _Structural Control and Health Monitoring_. <br />
 
 ### In international journals
 1. Sarkar, S., __Chen, L.__, Fitzgerald, B., & Basu, B. (2020). <br />
-Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions. <br />
-_Journal of Sound and Vibration_. (Accepted)
+[Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions](https://doi.org/10.1016/j.jsv.2020.115170). <br />
+_Journal of Sound and Vibration_, 115170.
 
 1. Sun, L., Hong, D., & __Chen, L.__ (2019). <br />
 [In-plane free vibrations of shallow cables with cross-ties](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2421). <br />
-_Structural Control and Health Monitoring_. e2421.
+_Structural Control and Health Monitoring, 26_(10), e2421.
 
 1. __Chen, L.__ & Basu, B. (2019). <br />
 [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). <br />
