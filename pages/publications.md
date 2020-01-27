@@ -39,6 +39,7 @@ Cable vibration control with internal and external dampers: refined analysis and
 
 1. Hou, N., Sun, L., & __Chen, L.__ (2019). <br />
 Cable reliability assessments by using identified tension forces and monitored loads. <br />
+_Journal of Bridge Engineering_
 (under review)
 
 1. __Chen, L.__ _et al._ (2019). <br />
