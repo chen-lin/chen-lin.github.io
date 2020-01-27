@@ -29,11 +29,11 @@ Negative stiffness device versus inerter-based absorber for multi-mode cable vib
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
 (in revision)
 
-1. Di, F., _et al._ (2019). <br />
+1. Di, F., Sun, L., Qin, L., __Chen, L.__, Zou, Y., Jiang, L., & Zhu, Y. (2019). <br />
 A full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers. <br />
 (under review)
 
-1. Di, F., _et al._ (2019). <br />
+1. Di, F., Sun, L., Zou, Y., & __Chen, L.__ (2019). <br />
 Cable vibration control with internal and external dampers: refined analysis and field test. <br />
 (under review)
 
