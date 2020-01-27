@@ -42,7 +42,7 @@ Cable reliability assessments by using identified tension forces and monitored l
 _Journal of Bridge Engineering_
 (under review)
 
-1. __Chen, L.__ _et al._ (2019). <br />
+1. __Chen, L.__, Di, F., Xu, Y., Sun, L., Xu, Y., & Wang, L. (2019). <br />
 Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge. <br />
 _Structural Control and Health Monitoring_. <br />
 (under review)
