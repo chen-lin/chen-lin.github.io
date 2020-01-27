@@ -44,7 +44,7 @@ _Journal of Bridge Engineering_
 
 1. __Chen, L.__, Di, F., Xu, Y., Sun, L., Xu, Y., & Wang, L. (2019). <br />
 Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge. <br />
-_Structural Control and Health Monitoring_. <br />
+_Structural Control and Health Monitoring_. 
 (under review)
 
 <a name="journal"></a>
