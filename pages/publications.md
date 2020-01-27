@@ -17,6 +17,10 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 <a name="workpaper"></a>
 ### Working papers
+1. __Chen, L.__, Xu, Y., & Sun, L. (2020). <br />
+A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.
+(submitted)
+
 1. __Chen, L.__, Nagarajaiah, S., & Sun, L. (2019). <br />
 Negative stiffness device versus inerter-based absorber for multi-mode cable vibration control. <br/>
 (under review)
@@ -27,6 +31,10 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 
 1. Di, F., _et al._ (2019). <br />
 A full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers. <br />
+(under review)
+
+1. Di, F., _et al._ (2019). <br />
+Cable vibration control with internal and external dampers: refined analysis and field test. <br />
 (under review)
 
 1. Hou, N., Sun, L., & __Chen, L.__ (2019). <br />
