@@ -16,8 +16,7 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
    * [PhD dissertation](#phd-thesis)
 
 <a name="workpaper"></a>
-### Working papers
-(* correspondence author)
+### Working papers (* correspondence author)
 
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
 A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.
