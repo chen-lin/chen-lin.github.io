@@ -48,7 +48,7 @@ _Structural Control and Health Monitoring_.
 <a name="j-int"></a>
 
 ### In international journals
-1. Hou, N., Sun, L.*, & __Chen, L.__ (2019). <br />
+1. Hou, N., Sun, L.*, & __Chen, L.__ (2020). <br />
 Cable reliability assessments by using identified tension forces and monitored loads. <br />
 _Journal of Bridge Engineering_.<br />
 (accepted)
