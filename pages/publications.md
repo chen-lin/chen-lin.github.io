@@ -17,27 +17,27 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 <a name="workpaper"></a>
 ### Working papers
-1. __Chen, L.__, Xu, Y., & Sun, L. (2020). <br />
+1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
 A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.
 (submitted)
 
-1. __Chen, L.__, Nagarajaiah, S., & Sun, L. (2019). <br />
+1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2019). <br />
 Negative stiffness device versus inerter-based absorber for multi-mode cable vibration control. <br/>
 (under review)
 
-1. __Chen, L.__, Basu, B., & Martin, C. (2019). <br />
+1. __Chen, L.__, Basu, B.*, & Martin, C. (2019). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
 (in revision)
 
-1. Di, F., Sun, L., Qin, L., __Chen, L.__, Zou, Y., Jiang, L., & Zhu, Y. (2019). <br />
+1. Di, F., Sun, L., Qin, L., __Chen, L.__*, Zou, Y., Jiang, L., & Zhu, Y. (2019). <br />
 A full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers. <br />
 (under review)
 
-1. Di, F., Sun, L., Zou, Y., & __Chen, L.__ (2019). <br />
+1. Di, F., Sun, L., Zou, Y., & __Chen, L.*__ (2019). <br />
 Cable vibration control with internal and external dampers: refined analysis and field test. <br />
 (under review)
 
-1. __Chen, L.__, Di, F., Xu, Y., Sun, L., Xu, Y., & Wang, L. (2019). <br />
+1. __Chen, L.__, Di, F., Xu, Y., Sun, L.*, Xu, Y., & Wang, L. (2019). <br />
 Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge. <br />
 _Structural Control and Health Monitoring_. 
 (under review)
@@ -46,77 +46,77 @@ _Structural Control and Health Monitoring_.
 ## Journal papers
 <a name="j-int"></a>
 
-### In international journals
-1. Hou, N., Sun, L., & __Chen, L.__ (2019). <br />
+### In international journals (* correspondence author)
+1. Hou, N., Sun, L.*, & __Chen, L.__ (2019). <br />
 Cable reliability assessments by using identified tension forces and monitored loads. <br />
-_Journal of Bridge Engineering_
+_Journal of Bridge Engineering_.<br />
 (accepted)
 
-1. Sarkar, S., __Chen, L.__, Fitzgerald, B., & Basu, B. (2020). <br />
+1. Sarkar, S., __Chen, L.__, Fitzgerald, B.*, & Basu, B. (2020). <br />
 [Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions](https://doi.org/10.1016/j.jsv.2020.115170). <br />
 _Journal of Sound and Vibration_, 115170.
 
-1. Sun, L., Hong, D., & __Chen, L.__ (2019). <br />
+1. Sun, L., Hong, D., & __Chen, L.__* (2019). <br />
 [In-plane free vibrations of shallow cables with cross-ties](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2421). <br />
 _Structural Control and Health Monitoring, 26_(10), e2421.
 
-1. __Chen, L.__ & Basu, B. (2019). <br />
+1. __Chen, L.__ & Basu, B.* (2019). <br />
 [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). <br />
 _Applicable Analysis_.
 
-1. Sun, L., Xu, Y., & __Chen, L.__ (2019). <br />
+1. Sun, L., Xu, Y., & __Chen, L.__* (2019). <br />
 [Damping effects of nonlinear dampers on a shallow cable](https://doi.org/10.1016/j.engstruct.2019.109305). <br />
 _Engineering Structures, 196_, 109305.
 
-1. __Chen, L.__ & Basu, B. (2019). <br />
+1. __Chen, L.__ & Basu, B.* (2019). <br />
 [Wave-current interaction effects on structural responses of floating offshore wind turbines](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2288). <br />
 _Wind Energy, 22_(2), 327-339.
 
-1. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2019). <br />
+1. __Chen, L.__, Basu, B.* & Nielsen, S.R.K. (2019). <br />
 [Nonlinear periodic response analysis of mooring cables using harmonic balance method](https://www.sciencedirect.com/science/article/pii/S0022460X18306126). <br />
 _Journal of Sound and Vibration, 438_, 402-418.
 
-1. __Chen, L.__ & Basu, B. (2018). <br />
+1. __Chen, L.__ & Basu, B.* (2018). <br />
 [Fatigue load estimation of a spar-type floating offshore wind turbine considering wave-current interactions](https://doi.org/10.1016/j.ijfatigue.2018.06.002). <br />
 _International Journal of Fatigue, 116_, 421-428.
 
-1. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2018). <br />
+1. __Chen, L.__, Basu, B.* & Nielsen, S.R.K. (2018). <br />
 [A coupled finite difference mooring dynamics model for floating offshore wind turbine analysis](https://www.sciencedirect.com/science/article/pii/S0029801818307005). <br />
 _Ocean Engineering,162_, 304-315.
 
-1. Sun, L., Hong, D. & __Chen, L.__ (2017). <br />
+1. Sun, L., Hong, D. & __Chen, L.__* (2017). <br />
 [Cables interconnected with tuned inerter damper for vibration mitigation](https://www.sciencedirect.com/science/article/pii/S0141029617300743). <br />
 _Engineering Structures, 151_, 57-67.
 
-1. Sun, L. & __Chen, L.__ (2017). <br />
+1. Sun, L. & __Chen, L.__* (2017). <br />
 [Residual mode correction in calibrating nonlinear damper for vibration control of flexible structures](http://www.sciencedirect.com/science/article/pii/S0022460X17304819). <br />
 _Journal of Sound and Vibration, 406_, 197-207.
 
-1. __Chen, L.__ & Sun, L. (2017). <br />
+1. __Chen, L.__ & Sun, L.* (2017). <br />
 [Steady-state analysis of cable with nonlinear damper via harmonic balance method for maximizing damping](http://ascelibrary.org/doi/abs/10.1061/(ASCE)ST.1943-541X.0001645). <br />
 _Journal of Structural Engineering, 143_(2), 04016172.
 
-1. __Chen, L.__, Basu, B. & McCabe, D. (2016). <br />
+1. __Chen, L.__, Basu, B.* & McCabe, D. (2016). <br />
 [Fractional order models for system identification of thermal dynamics of buildings](http://www.sciencedirect.com/science/article/pii/S0378778816308064). <br />
 _Energy and Buildings, 133_, 381-388. ([code](https://github.com/chen-lin/farx))
 
-1. __Chen, L.__, Sun, L. & Nagarajaiah, S. (2016). <br />
+1. __Chen, L.__, Sun, L.* & Nagarajaiah, S. (2016). <br />
 [Cable vibration control with both lateral and rotational dampers attached at an intermediate location](http://www.sciencedirect.com/science/article/pii/S0022460X16300815). <br />
 _Journal of Sound and Vibration, 377_, 38-57.
 
-1. Sun, S., Sun, L. & __Chen, L.__ (2016). <br />
+1. Sun, S., Sun, L.* & __Chen, L.__ (2016). <br />
 [Damage detection based on structural responses induced by traffic load: Methodology and application](http://dx.doi.org/10.1142/S0219455416400265). <br />
 _International Journal of Structural Stability and Dynamics, 16_(04), 1640026.
 
-1. Sun, L. & __Chen, L.__ (2015). <br />
+1. Sun, L.* & __Chen, L.__ (2015). <br />
 [Free vibrations of a taut cable with a general viscoelastic damper modeled by fractional derivatives](http://www.sciencedirect.com/science/article/pii/S0022460X14007469). <br />
 _Journal of Sound and Vibration, 335_, 19-33.
 
-1. __Chen, L.__, Sun, L. & Nagarajaiah, S. (2015). <br />
+1. __Chen, L.__, Sun, L. & Nagarajaiah, S.* (2015). <br />
 [Cable with discrete negative stiffness device and viscous damper: Passive realization and general characteristics](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=KJKHFZ_2015_v15n3_627). <br />
 _Smart Structures and Systems, 15_(3), 627-643. ([pdf](https://www.researchgate.net/profile/Satish_Nagarajaiah/publication/275237636_Cable_with_discrete_negative_stiffness_device_and_viscous_damper_Passive_realization_and_general_characteristics/links/55823e5808aeab1e4666e64d/Cable-with-discrete-negative-stiffness-device-and-viscous-damper-Passive-realization-and-general-characteristics.pdf))
 
-1. __Chen, L.__ & Sun, L. (2015). <br />
+1. __Chen, L.__ & Sun, L.* (2015). <br />
 [Laboratory-scale experimental setup for studying cable dampers](http://ascelibrary.org/doi/abs/10.1061/(ASCE)EM.1943-7889.0000878). <br />
 _Journal of Engineering Mechanics, 141_(5), 04014159.
 
