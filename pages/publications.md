@@ -17,6 +17,8 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 <a name="workpaper"></a>
 ### Working papers
+(* correspondence author)
+
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
 A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.
 (submitted)
@@ -46,7 +48,7 @@ _Structural Control and Health Monitoring_.
 ## Journal papers
 <a name="j-int"></a>
 
-### In international journals (* correspondence author)
+### In international journals
 1. Hou, N., Sun, L.*, & __Chen, L.__ (2019). <br />
 Cable reliability assessments by using identified tension forces and monitored loads. <br />
 _Journal of Bridge Engineering_.<br />
