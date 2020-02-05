@@ -37,11 +37,6 @@ A full-scale experimental study on vibration control of bridge suspenders using 
 Cable vibration control with internal and external dampers: refined analysis and field test. <br />
 (under review)
 
-1. Hou, N., Sun, L., & __Chen, L.__ (2019). <br />
-Cable reliability assessments by using identified tension forces and monitored loads. <br />
-_Journal of Bridge Engineering_
-(under review)
-
 1. __Chen, L.__, Di, F., Xu, Y., Sun, L., Xu, Y., & Wang, L. (2019). <br />
 Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge. <br />
 _Structural Control and Health Monitoring_. 
@@ -52,6 +47,11 @@ _Structural Control and Health Monitoring_.
 <a name="j-int"></a>
 
 ### In international journals
+1. Hou, N., Sun, L., & __Chen, L.__ (2019). <br />
+Cable reliability assessments by using identified tension forces and monitored loads. <br />
+_Journal of Bridge Engineering_
+(accepted)
+
 1. Sarkar, S., __Chen, L.__, Fitzgerald, B., & Basu, B. (2020). <br />
 [Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions](https://doi.org/10.1016/j.jsv.2020.115170). <br />
 _Journal of Sound and Vibration_, 115170.
