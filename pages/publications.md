@@ -85,7 +85,7 @@ _International Journal of Fatigue, 116_, 421-428.
 [A coupled finite difference mooring dynamics model for floating offshore wind turbine analysis](https://www.sciencedirect.com/science/article/pii/S0029801818307005). <br />
 _Ocean Engineering,162_, 304-315.
 
-1. Sun, L., Hong, D. & __Chen, L.__* (2017). <br />
+1. Sun, L., Hong, D.* & __Chen, L.__ (2017). <br />
 [Cables interconnected with tuned inerter damper for vibration mitigation](https://www.sciencedirect.com/science/article/pii/S0141029617300743). <br />
 _Engineering Structures, 151_, 57-67.
 
