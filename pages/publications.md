@@ -43,7 +43,7 @@ Cable vibration control with internal and external dampers: refined analysis and
 <a name="j-int"></a>
 
 ### In international journals
-1. __Chen, L.__, Di, F., Xu, Y., Sun, L.*, Xu, Y., & Wang, L. (2019). <br />
+1. __Chen, L.__, Di, F., Xu, Y., Sun, L.*, Xu, Y., & Wang, L. (2020). <br />
 Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge. <br />
 _Structural Control and Health Monitoring_. <br />
 (accepted)
