@@ -38,16 +38,16 @@ A full-scale experimental study on vibration control of bridge suspenders using 
 Cable vibration control with internal and external dampers: refined analysis and field test. <br />
 (under review)
 
-1. __Chen, L.__, Di, F., Xu, Y., Sun, L.*, Xu, Y., & Wang, L. (2019). <br />
-Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge. <br />
-_Structural Control and Health Monitoring_. 
-(under review)
-
 <a name="journal"></a>
 ## Journal papers
 <a name="j-int"></a>
 
 ### In international journals
+1. __Chen, L.__, Di, F., Xu, Y., Sun, L.*, Xu, Y., & Wang, L. (2019). <br />
+Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge. <br />
+_Structural Control and Health Monitoring_. <br />
+(accepted)
+
 1. Hou, N., Sun, L.*, & __Chen, L.__ (2020). <br />
 Cable reliability assessments by using identified tension forces and monitored loads. <br />
 _Journal of Bridge Engineering_.<br />
@@ -161,7 +161,7 @@ In _IABSE Symposium Report, IABSE Symposium Vancouver 2017: Engineering the Futu
 
 1. __Chen, L.__ & Basu, B. (2017). <br />
 [A numerical study on super-harmonic responses of mooring cables subjected to top end excitations](https://www.researchgate.net/publication/320741571_A_numerical_study_on_super-harmonic_responses_of_mooring_cables_subjected_to_top_end_excitations). <br />
-In _Proceedings of  the International Symposium on the Dynamics and Aerodynamics of Cables_ (ISDAC), Porto, Portugal, pp. 291-299.
+In _Proceedings of the International Symposium on the Dynamics and Aerodynamics of Cables_ (ISDAC), Porto, Portugal, pp. 291-299.
 
 1. __Chen, L.__ & Basu, B. (2017). <br />
 [A numerical study on in-plane wave propagation in mooring cables](https://doi.org/10.1016/j.proeng.2016.12.146). <br />
