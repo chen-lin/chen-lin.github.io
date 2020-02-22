@@ -19,15 +19,15 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 ### Working papers (* correspondence author)
 1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
 A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
-(accepted)
+(submitted)
 
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
 A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.
-(submitted)
+(under review)
 
 1. __Chen, L.__, Basu, B.*, & Martin, C. (2019). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
-(in revision)
+(under review)
 
 1. Di, F., Sun, L., Qin, L., __Chen, L.__*, Zou, Y., Jiang, L., & Zhu, Y. (2019). <br />
 A full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers. <br />
