@@ -17,14 +17,13 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 <a name="workpaper"></a>
 ### Working papers (* correspondence author)
+1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
+A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
+(accepted)
 
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
 A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.
 (submitted)
-
-1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2019). <br />
-Negative stiffness device versus inerter-based absorber for multi-mode cable vibration control. <br/>
-(under review)
 
 1. __Chen, L.__, Basu, B.*, & Martin, C. (2019). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
