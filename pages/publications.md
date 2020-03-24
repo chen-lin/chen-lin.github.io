@@ -19,7 +19,7 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 ### Working papers (* correspondence author)
 1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
 A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
-(submitted)
+(under review)
 
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
 A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.
@@ -27,10 +27,6 @@ A component mode synthesis method for reduced-order modeling of cable networks i
 
 1. __Chen, L.__, Basu, B.*, & Martin, C. (2019). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
-(under review)
-
-1. Di, F., Sun, L., Qin, L., __Chen, L.__*, Zou, Y., Jiang, L., & Zhu, Y. (2019). <br />
-A full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers. <br />
 (under review)
 
 1. Di, F., Sun, L., Zou, Y., & __Chen, L.*__ (2019). <br />
@@ -42,9 +38,9 @@ Cable vibration control with internal and external dampers: refined analysis and
 <a name="j-int"></a>
 
 ### In international journals
-1. __Chen, L.__, Di, F., Xu, Y., Sun, L.*, Xu, Y., & Wang, L. (2020). <br />
-Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge. <br />
-_Structural Control and Health Monitoring_. <br />
+1. Di, F., Sun, L., Qin, L., __Chen, L.__*, Zou, Y., Jiang, L., & Zhu, Y. (2019). <br />
+A full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers. <br />
+Journal of Bridge Engineering. <br />
 (accepted)
 
 1. Hou, N., Sun, L.*, & __Chen, L.__ (2020). <br />
@@ -52,9 +48,14 @@ Cable reliability assessments by using identified tension forces and monitored l
 _Journal of Bridge Engineering_.<br />
 (accepted)
 
+1. __Chen, L.__, Di, F., Xu, Y., Sun, L.*, Xu, Y., & Wang, L. (2020). <br />
+[Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge]
+(https://doi.org/10.1002/stc.2536). <br />
+_Structural Control and Health Monitoring_, e2536. <br />
+
 1. Sarkar, S., __Chen, L.__, Fitzgerald, B.*, & Basu, B. (2020). <br />
 [Multi-resolution wavelet pitch controller for spar-type floating offshore wind turbines including wave-current interactions](https://doi.org/10.1016/j.jsv.2020.115170). <br />
-_Journal of Sound and Vibration_, 115170.
+_Journal of Sound and Vibration_, 470, 115170.
 
 1. Sun, L., Hong, D., & __Chen, L.__* (2019). <br />
 [In-plane free vibrations of shallow cables with cross-ties](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2421). <br />
