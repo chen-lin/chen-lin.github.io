@@ -22,7 +22,7 @@ A comparative study of multi-mode cable vibration control using viscous and visc
 (under review)
 
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
-A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.
+A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.<br />
 (under review)
 
 1. __Chen, L.__, Basu, B.*, & Martin, C. (2019). <br />
@@ -45,12 +45,11 @@ Journal of Bridge Engineering. <br />
 
 1. Hou, N., Sun, L.*, & __Chen, L.__ (2020). <br />
 Cable reliability assessments by using identified tension forces and monitored loads. <br />
-_Journal of Bridge Engineering_.<br />
+_Journal of Bridge Engineering_. <br />
 (accepted)
 
 1. __Chen, L.__, Di, F., Xu, Y., Sun, L.*, Xu, Y., & Wang, L. (2020). <br />
-[Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge]
-(https://doi.org/10.1002/stc.2536). <br />
+[Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge](https://doi.org/10.1002/stc.2536). <br />
 _Structural Control and Health Monitoring_, e2536. <br />
 
 1. Sarkar, S., __Chen, L.__, Fitzgerald, B.*, & Basu, B. (2020). <br />
