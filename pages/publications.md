@@ -156,7 +156,7 @@ In _Proceedings of the 15th East Asia-Pacific Conference on Structural Engineeri
 
 1. Sun, L. & __Chen, L.__ (2017). <br />
 [Optimizing nonlinear damper performance for multi-Mode cable vibration control based on forced vibration responses](http://www.ingentaconnect.com/contentone/iabse/report/2017/00000109/00000013/art00005). <br />
-In _IABSE Symposium Report, IABSE Symposium Vancouver 2017: Engineering the Future_, Vancouver, Canada, pp. 2997-3002.
+In _IABSE Symposium Report, IABSE Symposium Vancouver 2017: Engineering the Future_, Vancouver, Canada, pp. 3004-3009.
 
 1. __Chen, L.__ & Basu, B. (2017). <br />
 [A numerical study on super-harmonic responses of mooring cables subjected to top end excitations](https://www.researchgate.net/publication/320741571_A_numerical_study_on_super-harmonic_responses_of_mooring_cables_subjected_to_top_end_excitations). <br />
