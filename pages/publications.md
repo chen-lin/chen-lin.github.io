@@ -44,9 +44,8 @@ _Journal of Bridge Engineering_. <br />
 (accepted)
 
 1. Hou, N., Sun, L.*, & __Chen, L.__ (2020). <br />
-Cable reliability assessments by using identified tension forces and monitored loads. <br />
-_Journal of Bridge Engineering_. <br />
-(accepted)
+[Cable reliability assessments by using identified tension forces and monitored loads](https://doi.org/10.1061/(ASCE)BE.1943-5592.0001573). <br />
+_Journal of Bridge Engineering_, 25(7): 05020003.
 
 1. __Chen, L.__, Di, F., Xu, Y., Sun, L.*, Xu, Y., & Wang, L. (2020). <br />
 [Multi-mode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge](https://doi.org/10.1002/stc.2536). <br />
