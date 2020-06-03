@@ -39,9 +39,8 @@ Cable vibration control with internal and external dampers: refined analysis and
 
 ### In international journals
 1. Di, F., Sun, L., Qin, L., __Chen, L.__*, Zou, Y., Jiang, L., & Zhu, Y. (2020). <br />
-A full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers. <br />
-_Journal of Bridge Engineering_. <br />
-(accepted)
+[Full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers](https://doi.org/10.1061/(ASCE)BE.1943-5592.0001591). <br />
+_Journal of Bridge Engineering_, 25(8), 04020047.
 
 1. Hou, N., Sun, L.*, & __Chen, L.__ (2020). <br />
 [Cable reliability assessments by using identified tension forces and monitored loads](https://doi.org/10.1061/(ASCE)BE.1943-5592.0001573). <br />
