@@ -21,7 +21,7 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
 (under review)
 
-1. Di, F., Sun, L., Zou, Y., & __Chen, L.*__ (2019). <br />
+1. Di, F., Sun, L., & __Chen, L.*__ (2019). <br />
 Cable vibration control with internal and external dampers: refined analysis and field test. <br />
 (under review)
 
