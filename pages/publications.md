@@ -17,14 +17,6 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 <a name="workpaper"></a>
 ### Working papers (* correspondence author)
-1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
-A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
-(under review)
-
-1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
-A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.<br />
-(under review)
-
 1. __Chen, L.__, Basu, B.*, & Martin, C. (2019). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
 (under review)
@@ -32,6 +24,15 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 1. Di, F., Sun, L., Zou, Y., & __Chen, L.*__ (2019). <br />
 Cable vibration control with internal and external dampers: refined analysis and field test. <br />
 (under review)
+
+1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
+A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
+(under review)
+
+1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
+A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.<br />
+_Journal of Sound and Vibration_ <br/>
+(under revision)
 
 <a name="journal"></a>
 ## Journal papers
