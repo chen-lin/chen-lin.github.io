@@ -23,11 +23,13 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2019). <br />
 Cable vibration control with internal and external dampers: refined analysis and field test. <br />
+_Smart Structures and Systems_ <br />
 (under review)
 
 1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
 A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
-(under review)
+_Engineering Structures_ <br/>
+(under revision)
 
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
 A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.<br />
@@ -61,7 +63,7 @@ _Structural Control and Health Monitoring, 26_(10), e2421.
 
 1. __Chen, L.__ & Basu, B.* (2019). <br />
 [Numerical investigations of two-dimensional irrotational water waves over finite-depth with uniform current](https://www.tandfonline.com/doi/full/10.1080/00036811.2019.1636974). <br />
-_Applicable Analysis_.
+_Applicable Analysis_,1-9.
 
 1. Sun, L., Xu, Y., & __Chen, L.__* (2019). <br />
 [Damping effects of nonlinear dampers on a shallow cable](https://doi.org/10.1016/j.engstruct.2019.109305). <br />
