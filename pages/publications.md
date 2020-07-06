@@ -24,7 +24,7 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 1. Di, F., Sun, L., & __Chen, L.*__ (2019). <br />
 Cable vibration control with internal and external dampers: refined analysis and field test. <br />
 _Smart Structures and Systems_ <br />
-(under review)
+(under revision)
 
 1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
 A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
