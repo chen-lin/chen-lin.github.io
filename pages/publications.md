@@ -21,10 +21,6 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 In-plane free vibrations of cable networks considering the pretension of the cross-ties. <br />
 (under review)
 
-1. __Chen, L.__, Basu, B.*, & Martin, C. (2020). <br />
-On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
-(under review)
-
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
 A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.<br />
 _Journal of Sound and Vibration_ <br/>
@@ -39,6 +35,10 @@ _Smart Structures and Systems_ <br />
 A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
 _Engineering Structures_ <br/>
 (revision submitted)
+
+1. __Chen, L.__, Basu, B.*, & Martin, C. (2020). <br />
+On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
+(under revision)
 
 <a name="journal"></a>
 ## Journal papers
