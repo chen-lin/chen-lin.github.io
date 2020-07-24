@@ -29,14 +29,14 @@ _Journal of Sound and Vibration_ <br/>
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
 Cable vibration control with internal and external dampers: theoretical analysis and field test. <br />
 _Smart Structures and Systems_ <br />
-(under revision)
+(revision submitted)
 
 1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
 A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
 _Engineering Structures_ <br/>
 (revision submitted)
 
-1. __Chen, L.__, Basu, B.*, & Martin, C. (2020). <br />
+1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
 (under revision)
 
