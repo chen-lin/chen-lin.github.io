@@ -18,6 +18,7 @@ Cables are efficient structural components and widely used in structural enginee
 1. [Building thermodynamics modeling and control](/research/building/)
 1. [Structural modal identification](/research/identification/)
 
+
 ## Selected works
 
 1. __Lin Chen__ and Biswajit Basu (2019). <br />
