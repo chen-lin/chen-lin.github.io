@@ -36,11 +36,6 @@ Cable vibration control with internal and external dampers: theoretical analysis
 _Smart Structures and Systems_ <br />
 (revision submitted)
 
-1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
-A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
-_Engineering Structures_ <br/>
-(revision submitted)
-
 1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
 (under revision)
@@ -50,6 +45,11 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 <a name="j-int"></a>
 
 ### In international journals
+1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
+A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
+_Engineering Structures_ <br/>
+(accepted)
+
 1. Di, F., Sun, L., Qin, L., __Chen, L.__*, Zou, Y., Jiang, L., & Zhu, Y. (2020). <br />
 [Full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers](https://doi.org/10.1061/(ASCE)BE.1943-5592.0001591). <br />
 _Journal of Bridge Engineering_, 25(8), 04020047.
