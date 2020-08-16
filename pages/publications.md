@@ -31,11 +31,6 @@ A component mode synthesis method for reduced-order modeling of cable networks i
 _Journal of Sound and Vibration_ <br/>
 (under revision)
 
-1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
-Cable vibration control with internal and external dampers: theoretical analysis and field test. <br />
-_Smart Structures and Systems_ <br />
-(revision submitted)
-
 1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
 (under revision)
@@ -49,6 +44,11 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
 _Engineering Structures_ <br/>
 (accepted)
+
+1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
+Cable vibration control with internal and external dampers: theoretical analysis and field test. <br />
+_Smart Structures and Systems_ <br />
+(accepted))
 
 1. Di, F., Sun, L., Qin, L., __Chen, L.__*, Zou, Y., Jiang, L., & Zhu, Y. (2020). <br />
 [Full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers](https://doi.org/10.1061/(ASCE)BE.1943-5592.0001591). <br />
