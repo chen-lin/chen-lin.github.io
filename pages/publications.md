@@ -20,10 +20,6 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. Di, F., __Chen, L.__, & Sun, L. (2020). <br />
 In-plane free vibrations of cable networks considering the pretension of the cross-ties. <br />
-(under review)
-
-1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2020). <br />
-A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control.<br />
 (submitted)
 
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
@@ -31,9 +27,13 @@ A component mode synthesis method for reduced-order modeling of cable networks i
 _Journal of Sound and Vibration_ <br/>
 (under revision)
 
+1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2020). <br />
+A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control.<br />
+(under review)
+
 1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
-(under revision)
+(revision submitted)
 
 <a name="journal"></a>
 ## Journal papers
@@ -48,7 +48,7 @@ _Engineering Structures_ <br/>
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
 Cable vibration control with internal and external dampers: theoretical analysis and field test. <br />
 _Smart Structures and Systems_ <br />
-(accepted))
+(accepted)
 
 1. Di, F., Sun, L., Qin, L., __Chen, L.__*, Zou, Y., Jiang, L., & Zhu, Y. (2020). <br />
 [Full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers](https://doi.org/10.1061/(ASCE)BE.1943-5592.0001591). <br />
