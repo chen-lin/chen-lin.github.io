@@ -27,7 +27,7 @@ _Applicable Analysis_. <br /><img width="600" src="/resources/bifurcation.jpg">
 
 1. Limin Sun, Dongxiao Hong, and __Lin Chen__ (2019). <br />
 [In-plane free vibrations of shallow cables with cross-ties](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2421). <br />
-_Structural Control and Health Monitoring_. e2421.<br /><img width="600" src="/resources/cablenet.jpg">
+_Structural Control and Health Monitoring, 26_(10), e2421.<br /><img width="600" src="/resources/cablenet.jpg">
 
 1. __Lin Chen__ and Biswajit Basu (2019). <br />
 [Wave-current interaction effects on structural responses of floating offshore wind turbines](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2288). <br />
