@@ -40,15 +40,14 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 <a name="j-int"></a>
 
 ### In international journals
-1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
-A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge. <br />
-_Engineering Structures_ <br/>
-(accepted)
-
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
 Cable vibration control with internal and external dampers: theoretical analysis and field test. <br />
 _Smart Structures and Systems_ <br />
 (accepted)
+
+1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
+[A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge](https://doi.org/10.1016/j.engstruct.2020.111226). <br />
+_Engineering Structures_, 224, 111226. 
 
 1. Di, F., Sun, L., Qin, L., __Chen, L.__*, Zou, Y., Jiang, L., & Zhu, Y. (2020). <br />
 [Full-scale experimental study on vibration control of bridge suspenders using Stockbridge dampers](https://doi.org/10.1061/(ASCE)BE.1943-5592.0001591). <br />
@@ -56,7 +55,7 @@ _Journal of Bridge Engineering_, 25(8), 04020047.
 
 1. Hou, N., Sun, L.*, & __Chen, L.__ (2020). <br />
 [Cable reliability assessments by using identified tension forces and monitored loads](https://doi.org/10.1061/(ASCE)BE.1943-5592.0001573). <br />
-_Journal of Bridge Engineering_, 25(7): 05020003.
+_Journal of Bridge Engineering_, 25(7), 05020003.
 
 1. __Chen, L.__, Di, F., Xu, Y., Sun, L.*, Xu, Y., & Wang, L. (2020). <br />
 [Multimode cable vibration control using a viscous-shear damper: Case studies on the Sutong Bridge](https://doi.org/10.1002/stc.2536). <br />
