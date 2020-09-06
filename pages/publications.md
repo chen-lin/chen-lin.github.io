@@ -154,21 +154,27 @@ In _Proceedings of the 7th World Conference on Structural Control and Monitoring
 1. Sun, L. & __Chen, L.__ (2018). <br />
 [An improved numerical model for a shallow cable attached with dampers](https://www.researchgate.net/publication/326647643_An_improved_numerical_model_for_a_shallow_cable_attached_with_dampers?_sg=FxiKwEZJuFTa_q__Z8Ozm36KqP1bphTFcK8ysXR2JUQMy4w7efTNqTy7T_pifImaGtu6C4ig8lL4ywygHDo3xbVJRDLJJ5I_B1WKGy9M.UKpekCi3D7ZzzkGIZzSVGmnK_8hltdgIyMxO0MMD8mAsO7LjFFVXpmAcQbTn9WtV_99LAuy-QpZEhS1JLdt7ww). <br />
 In _Proceedings of the 7th World Conference on Structural Control and Monitoring_ (7WCSCM), Qingdao, China, pp. 2949-2957.
+
 1. __Chen, L.__ & Basu, B. (2017). <br />
 Fatigue Load Estimation for a Spar-type Floating Offshore Wind Turbine using Frequency Domain Method. <br />
 In _Proceedings of IUTAM Symposium on Multi-scale Fatigue_, Fracture & Damage of Materials in Harsh Environments, Galway, Ireland.
+
 1. __Chen, L.__ & Sun, L. (2017). <br />
 [Calibration of nonlinear damper for shallow cable based on forced vibration analysis](https://www.researchgate.net/profile/Lin_Chen96/publication/320554603_Calibration_of_nonlinear_damper_for_shallow_cable_based_on_forced_vibration_analysis/links/59ec525c0f7e9bfdeb705cbf/Calibration-of-nonlinear-damper-for-shallow-cable-based-on-forced-vibration-analysis.pdf). <br />
 In _Proceedings of the 15th East Asia-Pacific Conference on Structural Engineering & Construction_ (EASEC-15), Xi’an, China, pp. 1852-1859.
+
 1. Sun, L. & __Chen, L.__ (2017). <br />
 [Optimizing nonlinear damper performance for multi-Mode cable vibration control based on forced vibration responses](http://www.ingentaconnect.com/contentone/iabse/report/2017/00000109/00000013/art00005). <br />
 In _IABSE Symposium Report, IABSE Symposium Vancouver 2017: Engineering the Future_, Vancouver, Canada, pp. 3004-3009.
+
 1. __Chen, L.__ & Basu, B. (2017). <br />
 [A numerical study on super-harmonic responses of mooring cables subjected to top end excitations](https://www.researchgate.net/publication/320741571_A_numerical_study_on_super-harmonic_responses_of_mooring_cables_subjected_to_top_end_excitations). <br />
 In _Proceedings of the International Symposium on the Dynamics and Aerodynamics of Cables_ (ISDAC), Porto, Portugal, pp. 291-299.
+
 1. __Chen, L.__ & Basu, B. (2017). <br />
 [A numerical study on in-plane wave propagation in mooring cables](https://doi.org/10.1016/j.proeng.2016.12.146). <br />
 _Procedia Engineering, 173_, 934-939.
+
 1. Sun, L. & __Chen, L.__ (2016). <br />
 [Periodic responses of a taut cable attached with a friction damper computed using multi-harmonic balance method](http://www.ingentaconnect.com/contentone/iabse/report/2016/00000106/00000009/art00006). <br />
 In _IABSE Symposium Report, IABSE Conference Guangzhou 2016: Bridges and Structures Sustainability-Seeking Intelligent Solutions_, pp. 464-471.
