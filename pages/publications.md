@@ -20,7 +20,7 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. Di, F., __Chen, L.__, & Sun, L. (2020). <br />
 In-plane free vibrations of cable networks considering the pretension of the cross-ties. <br />
-(to be submitted)
+(submitted)
 
 1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2020). <br />
 A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control.<br />
@@ -29,7 +29,7 @@ A unified analysis of negative stiffness dampers and inerter-based absorbers for
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
 A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.<br />
 _Journal of Sound and Vibration_ <br/>
-(revision submitted)
+(minor revision submitted)
 
 1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
