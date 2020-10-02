@@ -26,11 +26,6 @@ In-plane free vibrations of cable networks considering the pretension of the cro
 A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control.<br />
 (under review)
 
-1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
-A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.<br />
-_Journal of Sound and Vibration_ <br/>
-(minor revision submitted)
-
 1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
 On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
 (revision submitted)
@@ -40,6 +35,11 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 <a name="j-int"></a>
 
 ### In international journals
+1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
+A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges.<br />
+_Journal of Sound and Vibration_ <br/>
+(accepted)
+
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
 Cable vibration control with internal and external dampers: theoretical analysis and field test. <br />
 _Smart Structures and Systems_ <br />
