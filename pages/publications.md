@@ -36,9 +36,9 @@ A unified analysis of negative stiffness dampers and inerter-based absorbers for
 (accepted)
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
-Cable vibration control with internal and external dampers: theoretical analysis and field test. <br />
-_Smart Structures and Systems_ <br />
-(accepted)
+Cable vibration control with internal and external dampers: Theoretical analysis and field test. <br />
+_Smart Structures and Systems_, 26(5) <br />
+(in press)
 
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
 [A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges](https://doi.org/10.1016/j.jsv.2020.115769).<br />
