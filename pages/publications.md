@@ -20,10 +20,6 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 
 1. Di, F., Sun, L., __Chen, L.__, & Luo, J. (2020). <br />
 In-plane free vibrations of cable networks considering the pretension of the cross-ties. <br />
-(submitted)
-
-1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2020). <br />
-A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control.<br />
 (under review)
 
 1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
@@ -35,6 +31,10 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 <a name="j-int"></a>
 
 ### In international journals
+1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2020). <br />
+A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control.<br />
+(accepted)
+
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
 Cable vibration control with internal and external dampers: theoretical analysis and field test. <br />
 _Smart Structures and Systems_ <br />
