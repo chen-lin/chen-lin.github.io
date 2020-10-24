@@ -32,7 +32,8 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 
 ### In international journals
 1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2020). <br />
-A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control.<br />
+A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control. <br />
+_Journal of Sound and Vibration_. <br />
 (accepted)
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
