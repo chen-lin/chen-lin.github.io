@@ -37,8 +37,8 @@ _Journal of Sound and Vibration_. <br />
 (accepted)
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
-Cable vibration control with internal and external dampers: Theoretical analysis and field test. <br />
-_Smart Structures and Systems_, 26(5) <br />
+Cable vibration control with internal and external dampers: Theoretical analysis and field test validation. <br />
+_Smart Structures and Systems_, 26(5). <br />
 (in press)
 
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2020). <br />
