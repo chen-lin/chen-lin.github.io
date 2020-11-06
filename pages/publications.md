@@ -22,15 +22,16 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 In-plane free vibrations of cable networks considering the pretension of the cross-ties. <br />
 (under review)
 
-1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
-On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
-(revision submitted)
-
 <a name="journal"></a>
 ## Journal papers
 <a name="j-int"></a>
 
 ### In international journals
+
+1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
+On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
+_Journal of Fluid Mechanics_. <br />
+(accepted)
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
 Cable vibration control with internal and external dampers: Theoretical analysis and field test validation. <br />
