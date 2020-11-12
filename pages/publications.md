@@ -39,9 +39,8 @@ _Journal of Fluid Mechanics_. <br />
 (accepted)
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
-Cable vibration control with internal and external dampers: Theoretical analysis and field test validation. <br />
-_Smart Structures and Systems_, 26(5). <br />
-(in press)
+[Cable vibration control with internal and external dampers: Theoretical analysis and field test validation](https://doi.org/10.12989/sss.2020.26.5.575). <br />
+_Smart Structures and Systems_, 26(5), 575-589. 
 
 1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2020). <br />
 [A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control](https://doi.org/10.1016/j.jsv.2020.115814). <br />
