@@ -39,7 +39,7 @@ _Journal of Fluid Mechanics_. <br />
 (accepted)
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
-[Cable vibration control with internal and external dampers: Theoretical analysis and field test validation](https://doi.org/10.12989/sss.2020.26.5.575). <br />
+[Cable vibration control with internal and external dampers: Theoretical analysis and field test validation](http://www.techno-press.org/content/?page=article&journal=sss&volume=26&num=5&ordernum=3). <br />
 _Smart Structures and Systems_, 26(5), 575-589. 
 
 1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2020). <br />
