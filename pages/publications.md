@@ -21,7 +21,7 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 1. __Chen, L.__ & Basu, B.* (2020). <br />
 Numerical continuation method for large-amplitude steady water waves on depth-varying currents in
 flows with fixed mean water depth. <br />
-(submitted)
+(under review)
 
 1. Di, F., Sun, L., __Chen, L.__, & Luo, J. (2020). <br />
 In-plane free vibrations of cable networks considering the pretension of the cross-ties. <br />
