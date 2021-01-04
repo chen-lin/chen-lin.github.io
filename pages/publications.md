@@ -34,7 +34,7 @@ In-plane free vibrations of cable networks considering the pretension of the cro
 ### In international journals
 1. Di, F., __Chen, L.__, & Sun, L. (2021). <br/>
 Optimal design of dampers for multi-mode cable vibration control based on genetic algorithm. <br />
-_International Journal of Structural Stability and Dynamics. <br />
+_International Journal of Structural Stability and Dynamics_. <br />
 (accepted)
 
 1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
