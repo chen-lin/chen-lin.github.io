@@ -27,6 +27,10 @@ flows with fixed mean water depth. <br />
 In-plane free vibrations of cable networks considering the pretension of the cross-ties. <br />
 (under review)
 
+1. Di, F., Sun, L., & __Chen, L.*__ (2021). <br />
+Practical strategies for suppressing vortex-induced vibrations of a cable-damper system. <br />
+(under review)
+
 <a name="journal"></a>
 ## Journal papers
 <a name="j-int"></a>
