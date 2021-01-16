@@ -41,7 +41,7 @@ Practical strategies for suppressing vortex-induced vibrations of a cable-damper
 <a name="j-int"></a>
 
 ### In international journals
-1. Di, F., __Chen, L.__*, & Sun, L.*(2021). <br/>
+1. Di, F., __Chen, L.__* , & Sun, L.*(2021). <br/>
 Free vibrations of hybrid cable networks with external dampers and pretensioned cross-ties. <br />
 _Mechanical Systems and Signal Processing_. <br />
 (accepted)
