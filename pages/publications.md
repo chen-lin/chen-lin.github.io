@@ -23,7 +23,7 @@ Numerical continuation method for large-amplitude steady water waves on depth-va
 flows with fixed mean water depth. <br />
 (under review)
 
-1. Di, F., Sun, L., __Chen, L.__, & Luo, J. (2020). <br />
+1. Di, F., Sun, L., __Chen, L.__*, & Luo, J. (2020). <br />
 In-plane free vibrations of cable networks considering the pretension of the cross-ties. <br />
 (under review)
 
@@ -31,12 +31,16 @@ In-plane free vibrations of cable networks considering the pretension of the cro
 Practical strategies for suppressing vortex-induced vibrations of a cable-damper system. <br />
 (under review)
 
+1. 孙利民, 狄方殿, __陈林__* , 许映梅(2021). <br />
+斜拉索双阻尼器系统多模态减振理论与试验研究. <br />
+(审稿中)
+
 <a name="journal"></a>
 ## Journal papers
 <a name="j-int"></a>
 
 ### In international journals
-1. Di, F., __Chen, L.__, & Sun, L. (2021). <br/>
+1. Di, F., __Chen, L.__*, & Sun, L.* (2021). <br/>
 Free vibrations of hybrid cable networks with external dampers and pretensioned cross-ties. <br />
 _Mechanical Systems and Signal Processing_. <br />
 (accepted)
