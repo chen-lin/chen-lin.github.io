@@ -56,17 +56,17 @@ On rotational flows with discontinuous vorticity beneath steady water waves near
 _Journal of Fluid Mechanics_. <br />
 (accepted)
 
-1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
-[Cable vibration control with internal and external dampers: Theoretical analysis and field test validation](http://www.techno-press.org/content/?page=article&journal=sss&volume=26&num=5&ordernum=3). <br />
-_Smart Structures and Systems_, 26(5), 575-589. 
-
-1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2020). <br />
+1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2021). <br />
 [A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control](https://doi.org/10.1016/j.jsv.2020.115814). <br />
-_Journal of Sound and Vibration_, 115814. <br />
+_Journal of Sound and Vibration_, 494, 115814. <br />
 
 1. __Chen, L.__, Xu, Y., & Sun, L.* (2021). <br />
 [A component mode synthesis method for reduced-order modeling of cable networks in cable-stayed bridges](https://doi.org/10.1016/j.jsv.2020.115769).<br />
 _Journal of Sound and Vibration_, 491, 115769. <br />
+
+1. Di, F., Sun, L., & __Chen, L.*__ (2020). <br />
+[Cable vibration control with internal and external dampers: Theoretical analysis and field test validation](http://www.techno-press.org/content/?page=article&journal=sss&volume=26&num=5&ordernum=3). <br />
+_Smart Structures and Systems_, 26(5), 575-589. 
 
 1. __Chen, L.__, Sun, L.*, Xu, Y., Di, F., Xu, Y., & Wang, L. (2020). <br />
 [A comparative study of multi-mode cable vibration control using viscous and viscoelastic dampers through field tests on the Sutong Bridge](https://doi.org/10.1016/j.engstruct.2020.111226). <br />
