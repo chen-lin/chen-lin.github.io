@@ -18,11 +18,6 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 <a name="workpaper"></a>
 ### Working papers (* correspondence author)
 
-1. __Chen, L.__ & Basu, B.* (2020). <br />
-Numerical continuation method for large-amplitude steady water waves on depth-varying currents in
-flows with fixed mean water depth. <br />
-(under review)
-
 1. Di, F., Sun, L., __Chen, L.__*, & Luo, J. (2020). <br />
 In-plane free vibrations of cable networks considering the pretension of the cross-ties. <br />
 (under review)
@@ -35,6 +30,11 @@ Practical strategies for suppressing vortex-induced vibrations of a cable-damper
 斜拉索双阻尼器系统多模态减振理论与试验研究. <br />
 (审稿中)
 
+1. __Chen, L.__ & Basu, B.* (2020). <br />
+Numerical continuation method for large-amplitude steady water waves on depth-varying currents in
+flows with fixed mean water depth. <br />
+_Applied Ocean Research_. <br />
+(under revision)
 
 <a name="journal"></a>
 ## Journal papers
