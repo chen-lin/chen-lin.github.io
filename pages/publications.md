@@ -43,18 +43,17 @@ _Applied Ocean Research_. <br />
 ### In international journals
 1. Di, F., __Chen, L.__* , & Sun, L.*(2021). <br/>
 Free vibrations of hybrid cable networks with external dampers and pretensioned cross-ties. <br />
-_Mechanical Systems and Signal Processing_. <br />
-(accepted)
+_Mechanical Systems and Signal Processing_, 107627. <br />
+(in press)
 
 1. Di, F., __Chen, L.__, & Sun, L.* (2021). <br/>
-Optimal design of dampers for multi-mode cable vibration control based on genetic algorithm. <br />
-_International Journal of Structural Stability and Dynamics_. <br />
-(accepted)
+[Optimal design of dampers for multi-mode cable vibration control based on genetic algorithm](https://doi.org/10.1142/S0219455421500589). <br />
+_International Journal of Structural Stability and Dynamics_, 2150058. <br />
+(in press)
 
 1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
-On rotational flows with discontinuous vorticity beneath steady water waves near stagnation. <br />
-_Journal of Fluid Mechanics_. <br />
-(accepted)
+[On rotational flows with discontinuous vorticity beneath steady water waves near stagnation](https://doi.org/10.1017/jfm.2020.1057). <br />
+_Journal of Fluid Mechanics_, 912, A44. <br />
 
 1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2021). <br />
 [A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control](https://doi.org/10.1016/j.jsv.2020.115814). <br />
