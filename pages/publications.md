@@ -49,7 +49,7 @@ _Mechanical Systems and Signal Processing_, 156, 107627. <br />
 [Optimal design of dampers for multi-mode cable vibration control based on genetic algorithm](https://doi.org/10.1142/S0219455421500589). <br />
 _International Journal of Structural Stability and Dynamics_, 2150058. <br />
 
-1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2020). <br />
+1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2021). <br />
 [On rotational flows with discontinuous vorticity beneath steady water waves near stagnation](https://doi.org/10.1017/jfm.2020.1057). <br />
 _Journal of Fluid Mechanics_, 912, A44. <br />
 
