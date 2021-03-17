@@ -38,8 +38,7 @@ Practical strategies for suppressing vortex-induced vibrations of a cable-damper
 1. __Chen, L.__ & Basu, B.* (2020). <br />
 Numerical continuation method for large-amplitude steady water waves on depth-varying currents in
 flows with fixed mean water depth. <br />
-_Applied Ocean Research_. <br />
-(accepted)
+_Applied Ocean Research_. (accepted) <br /> 
 
 1. Di, F., __Chen, L.__* , & Sun, L.*(2021). <br/>
 [Free vibrations of hybrid cable networks with external dampers and pretensioned cross-ties](https://doi.org/10.1016/j.ymssp.2021.107627). <br />
