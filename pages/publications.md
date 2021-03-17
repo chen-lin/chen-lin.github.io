@@ -40,7 +40,7 @@ Numerical continuation method for large-amplitude steady water waves on depth-va
 flows with fixed mean water depth. <br />
 _Applied Ocean Research_. (accepted) <br /> 
 
-1. Di, F., __Chen, L.__* , & Sun, L.*(2021). <br/>
+1. Di, F., __Chen, L.__* , & Sun, L.* (2021). <br/>
 [Free vibrations of hybrid cable networks with external dampers and pretensioned cross-ties](https://doi.org/10.1016/j.ymssp.2021.107627). <br />
 _Mechanical Systems and Signal Processing_, 156, 107627. <br />
 
