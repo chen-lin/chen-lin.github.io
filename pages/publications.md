@@ -35,7 +35,7 @@ Practical strategies for suppressing vortex-induced vibrations of a cable-damper
 <a name="j-int"></a>
 
 ### In international journals
-1. __Chen, L.__ & Basu, B.* (2020). <br />
+1. __Chen, L.__ & Basu, B.* (2021). <br />
 Numerical continuation method for large-amplitude steady water waves on depth-varying currents in
 flows with fixed mean water depth. <br />
 _Applied Ocean Research_. (accepted) <br /> 
