@@ -26,10 +26,6 @@ In-plane free vibrations of cable networks considering the pretension of the cro
 Practical strategies for suppressing vortex-induced vibrations of a cable-damper system. <br />
 (under review)
 
-1. 孙利民, 狄方殿, __陈林__* , 许映梅(2021). <br />
-斜拉索双阻尼器系统多模态减振理论与试验研究. <br />
-(审稿中)
-
 <a name="journal"></a>
 ## Journal papers
 <a name="j-int"></a>
@@ -150,6 +146,9 @@ _Journal of Engineering Mechanics, 141_(5), 04014159.
 
 <a name="j-chn"></a>
 ### 中文文章
+1. 孙利民, 狄方殿, __陈林__* , 许映梅(2021). <br />
+斜拉索双阻尼器系统多模态减振理论与试验研究. <br />
+_同济大学学报（自然科学版）_ (接收)
 
 1. __陈林__ , 孙利民(2012). <br />
 [用于阻尼器试验的斜拉索等效模型建模](http://engineeringmechanics.cn/CN/volumn/volumn_199.shtml). <br />
