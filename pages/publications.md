@@ -19,11 +19,16 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 ### Working papers (* correspondence author)
 
 1. Di, F., Sun, L., & __Chen, L.__* (2021). <br />
-In-plane free vibrations of cable networks considering the pretension of the cross-ties. <br />
-(under review)
+Optimization of hybrid cable networks with dampers and cross-ties for vibration control via multi-objective genetic algorithm. <br />
+(submitted)
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2021). <br />
 Practical strategies for suppressing vortex-induced vibrations of a cable-damper system. <br />
+(under review)
+
+1. Di, F., Sun, L., & __Chen, L.__* (2021). <br />
+In-plane dynamic behaviors of two-cable networks with a pretensioned cross-tie. <br />
+_Structural Control and Health Monitoring_. <br />
 (under review)
 
 <a name="journal"></a>
@@ -32,8 +37,7 @@ Practical strategies for suppressing vortex-induced vibrations of a cable-damper
 
 ### In international journals
 1. __Chen, L.__ & Basu, B.* (2021). <br />
-Numerical continuation method for large-amplitude steady water waves on depth-varying currents in
-flows with fixed mean water depth. <br />
+Numerical continuation method for large-amplitude steady water waves on depth-varying currents in flows with fixed mean water depth. <br />
 _Applied Ocean Research_. (accepted) <br /> 
 
 1. Di, F., __Chen, L.__* , & Sun, L.* (2021). <br/>
@@ -46,7 +50,7 @@ _International Journal of Structural Stability and Dynamics_, 2150058. <br />
 
 1. __Chen, L.__, Basu, B.*, & Martin, C. I. (2021). <br />
 [On rotational flows with discontinuous vorticity beneath steady water waves near stagnation](https://doi.org/10.1017/jfm.2020.1057). <br />
-_Journal of Fluid Mechanics_, 912, A44. <br />
+_Journal of Fluid Mechanics_, 912, A44. [arXiv preprint](https://arxiv.org/abs/2011.11775) <br /> 
 
 1. __Chen, L.__, Nagarajaiah, S., & Sun, L.* (2021). <br />
 [A unified analysis of negative stiffness dampers and inerter-based absorbers for multimode cable vibration control](https://doi.org/10.1016/j.jsv.2020.115814). <br />
