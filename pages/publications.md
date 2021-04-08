@@ -36,8 +36,7 @@ Practical strategies for suppressing vortex-induced vibrations of a cable-damper
 ### In international journals
 1. Di, F., Sun, L., & __Chen, L.__* (2021). <br />
 In-plane dynamic behaviors of two-cable networks with a pretensioned cross-tie. <br />
-_Structural Control and Health Monitoring_. <br />
-(accepted)
+_Structural Control and Health Monitoring_. (accepted) <br />
 
 1. __Chen, L.__ & Basu, B.* (2021). <br />
 Numerical continuation method for large-amplitude steady water waves on depth-varying currents in flows with fixed mean water depth. <br />
