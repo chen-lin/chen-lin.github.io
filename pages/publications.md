@@ -26,7 +26,7 @@ Optimization of hybrid cable networks with dampers and cross-ties for vibration 
 (submitted)
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2021). <br />
-Suppression of vortex-induced vibrations of a cable-damper system by an additional damper. <br />
+Suppression of vortex-induced high-mode vibrations of a cable-damper system by an additional damper. <br />
 _Engineering Structures_. (under review) <br />
 
 
