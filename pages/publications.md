@@ -40,8 +40,8 @@ In-plane dynamic behaviors of two-cable networks with a pretensioned cross-tie. 
 _Structural Control and Health Monitoring_. (accepted) <br />
 
 1. __Chen, L.__ & Basu, B.* (2021). <br />
-Numerical continuation method for large-amplitude steady water waves on depth-varying currents in flows with fixed mean water depth. <br />
-_Applied Ocean Research_. (accepted) <br /> 
+[Numerical continuation method for large-amplitude steady water waves on depth-varying currents in flows with fixed mean water depth](https://www.sciencedirect.com/science/article/pii/S0141118721001085). <br />
+_Applied Ocean Research_, 111, 102631. <br /> 
 
 1. Di, F., __Chen, L.__* , & Sun, L.* (2021). <br/>
 [Free vibrations of hybrid cable networks with external dampers and pretensioned cross-ties](https://doi.org/10.1016/j.ymssp.2021.107627). <br />
