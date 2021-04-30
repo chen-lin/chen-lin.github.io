@@ -25,16 +25,16 @@ Inerter dampers with linear hysteretic damping for cable vibration control. <br 
 Optimization of hybrid cable networks with dampers and cross-ties for vibration control via multi-objective genetic algorithm. <br />
 (submitted)
 
-1. Di, F., Sun, L., & __Chen, L.*__ (2021). <br />
-Suppression of vortex-induced high-mode vibrations of a cable-damper system by an additional damper. <br />
-_Engineering Structures_. (under review) <br />
-
 
 <a name="journal"></a>
 ## Journal papers
 <a name="j-int"></a>
 
 ### In international journals
+1. Di, F., Sun, L., & __Chen, L.*__ (2021). <br />
+Suppression of vortex-induced high-mode vibrations of a cable-damper system by an additional damper. <br />
+_Engineering Structures_. (accepted) <br />
+
 1. Di, F., Sun, L., & __Chen, L.__* (2021). <br />
 [In-plane dynamic behaviors of two-cable networks with a pretensioned cross-tie](https://onlinelibrary.wiley.com/doi/10.1002/stc.2755). <br />
 _Structural Control and Health Monitoring_, e2755. <br />
