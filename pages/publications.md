@@ -36,8 +36,8 @@ _Engineering Structures_. (under review) <br />
 
 ### In international journals
 1. Di, F., Sun, L., & __Chen, L.__* (2021). <br />
-In-plane dynamic behaviors of two-cable networks with a pretensioned cross-tie. <br />
-_Structural Control and Health Monitoring_. (accepted) <br />
+[In-plane dynamic behaviors of two-cable networks with a pretensioned cross-tie](https://onlinelibrary.wiley.com/doi/10.1002/stc.2755). <br />
+_Structural Control and Health Monitoring_, e2755. <br />
 
 1. __Chen, L.__ & Basu, B.* (2021). <br />
 [Numerical continuation method for large-amplitude steady water waves on depth-varying currents in flows with fixed mean water depth](https://www.sciencedirect.com/science/article/pii/S0141118721001085). <br />
