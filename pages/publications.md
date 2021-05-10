@@ -32,7 +32,7 @@ Optimization of hybrid cable networks with dampers and cross-ties for vibration 
 
 ### In international journals
 1. Luo, C., __Chen, L.__ & Huang, Y. (2021), <br />
-A phase-field crack model based on a directional strain decomposition and a stress-driven Crack-Opening Indicator
+A phase-field crack model based on a directional strain decomposition and a stress-driven Crack-Opening Indicator. <br />
 _Computer Methods in Applied Mechanics and Engineering_. (accepted) <br />
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2021). <br />
