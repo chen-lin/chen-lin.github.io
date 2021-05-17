@@ -36,8 +36,8 @@ A phase-field crack model based on a directional strain decomposition and a stre
 _Computer Methods in Applied Mechanics and Engineering_. (accepted) <br />
 
 1. Di, F., Sun, L., & __Chen, L.*__ (2021). <br />
-Suppression of vortex-induced high-mode vibrations of a cable-damper system by an additional damper. <br />
-_Engineering Structures_. (accepted) <br />
+[Suppression of vortex-induced high-mode vibrations of a cable-damper system by an additional damper](https://doi.org/10.1016/j.engstruct.2021.112495). <br />
+_Engineering Structures_, 112495. (accepted) <br />
 
 1. Di, F., Sun, L., & __Chen, L.__* (2021). <br />
 [In-plane dynamic behaviors of two-cable networks with a pretensioned cross-tie](https://onlinelibrary.wiley.com/doi/10.1002/stc.2755). <br />
