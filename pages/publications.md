@@ -19,11 +19,11 @@ See [Google Scholar profile](https://scholar.google.com/citations?user=X5-zCpEAA
 ### Working papers (* correspondence author)
 1. Sun, L., Sun, J., Nagarajaiah, S., & __Chen, L.__* (2021). <br />
 Inerter dampers with linear hysteretic damping for cable vibration control. <br />
-(submitted)
+(under review)
 
 1. Di, F., Sun, L., & __Chen, L.__* (2021). <br />
 Optimization of hybrid cable networks with dampers and cross-ties for vibration control via multi-objective genetic algorithm. <br />
-(submitted)
+(under review)
 
 
 <a name="journal"></a>
@@ -41,7 +41,7 @@ _Engineering Structures_, 242, 112495. <br />
 
 1. Di, F., Sun, L., & __Chen, L.__* (2021). <br />
 [In-plane dynamic behaviors of two-cable networks with a pretensioned cross-tie](https://onlinelibrary.wiley.com/doi/10.1002/stc.2755). <br />
-_Structural Control and Health Monitoring_, e2755. <br />
+_Structural Control and Health Monitoring_, 28(7), e2755. <br />
 
 1. __Chen, L.__ & Basu, B.* (2021). <br />
 [Numerical continuation method for large-amplitude steady water waves on depth-varying currents in flows with fixed mean water depth](https://www.sciencedirect.com/science/article/pii/S0141118721001085). <br />
