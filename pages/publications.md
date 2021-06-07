@@ -31,7 +31,7 @@ Optimization of hybrid cable networks with dampers and cross-ties for vibration 
 <a name="j-int"></a>
 
 ### In international journals
-1. Di, F., Sun, L.*, & __Chen, L.__ (2021). <br />
+1. Hou, N., Sun, L.*, & __Chen, L.__ (2021). <br />
 Modeling vehicle load for a long-span bridge based on weigh-in-motion data. <br />
 _Measurement_. (accepted) <br />
 
