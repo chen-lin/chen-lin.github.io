@@ -31,9 +31,9 @@ Optimization of hybrid cable networks with dampers and cross-ties for vibration 
 <a name="j-int"></a>
 
 ### In international journals
-1. Hou, N., Sun, L.*, & __Chen, L.__ (2021). <br />
-Modeling vehicle load for a long-span bridge based on weigh-in-motion data. <br />
-_Measurement_. (accepted) <br />
+1. Hou, N., Sun, L.* , & __Chen, L.__ (2021). <br />
+[Modeling vehicle load for a long-span bridge based on weigh-in-motion data](https://doi.org/10.1016/j.measurement.2021.109727). <br />
+_Measurement_, 109727. <br />
 
 1. Luo, C., __Chen, L.__ & Huang, Y.* (2021). <br />
 [A phase-field crack model based on a directional strain decomposition and a stress-driven Crack-Opening Indicator](https://doi.org/10.1016/j.cma.2021.113928). <br />
